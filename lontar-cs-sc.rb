@@ -57,7 +57,7 @@ offset = 0
 current_uri = get_uri % offset
 page = Nokogiri::HTML(open(current_uri))
 total_document = page.css("table.fullwidth b")[1].text.to_i
-total_document = 20
+
 puts "Will retrieve #{total_document} documents"
 
 while (offset < total_document)
