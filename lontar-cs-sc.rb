@@ -21,7 +21,7 @@ def parse_lontar(uri)
     # Skip if there is nothing
     next unless table.css('.judulkoleksi a').length > 0
 
-    title = table.css('.judulkoleksi a')[0]
+    title = table.css('.judulkoleksi a')[0].text
     link = table.css('.judulkoleksi a')[0]['href']
     datakoleksi_raw = table.css('.datakoleksi').last.text
     author_all = datakoleksi_raw.match(/Author: (.+);.*\|/)[1]
@@ -64,22 +64,20 @@ while (offset < total_document)
   puts "Retrieving with offset #{offset}"
   current_uri = get_uri % offset
   current_page_object = parse_lontar(current_uri)
-  result << current_page_object
+  result = result.concat(current_page_object)
   offset += 10
 end
 
 # Sort the result by year, then by title
-result = result.sort_by! do |a,b|
+result = result.sort do |a,b|
   [b[:year], a[:title]] <=> [a[:year], b[:title]]
 end
-result = result[0]
+result = result
 
 # Output the CSV
 csv = CSV.generate({ :col_sep => "\t" }) do |csv|
   csv << ['Title', 'Author', 'Year', 'Callnum']
   result.each do |e|
-    puts "Processing.."
-    pp e
     csv << [e[:title], e[:author], e[:year], e[:call_number]]
   end
 end
