@@ -17,8 +17,8 @@ So i make a web parser. It parse the web page and convert it into human readable
 
 We have 4 output formats. Choose that suit for you:
 
-- Markdown. This format is suitable for human viewing and very readable. I have sort it and categorize in by year.
-- TSV. This is actually a CSV-like format, but use tab (`\t`) as separator. This is done due to some title which use comma. The benefit is instant search (when viewed from Github Desktop Web).
+- Markdown. This format is suitable for human viewing and very readable. I have sorted it and have categorized it in by year.
+- TSV. This is actually a CSV-like format, but use tab (`\t`) as separator. This is done due to some title which use comma. The benefit is instant search (when viewed from Github Desktop Web). You can also download this format and open it with your favorite spreadsheet program (like Libreoffice Calc, Number, or Excel)
 - JSON. If you want your own data, just grab this format.
 
 ## Updating and Installation
