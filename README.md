@@ -28,16 +28,16 @@ For some reason in the future, i might forget to update the output. To update, s
 1. Install Ruby
 1. Clone this repositories, and `cd` into it.
 
-    git clone https://github.com/mufid/lontarcs-parser   # Do you know you can omit .git in Github remote?
-    cd lontarcs-parser
+        git clone https://github.com/mufid/lontarcs-parser   # Do you know you can omit .git in Github remote?
+        cd lontarcs-parser
 
 1. Install the dependencies
 
-    bundle install
+        bundle install
 
 1. Run the ruby script
 
-    ruby lontar-cs-sc.rb
+        ruby lontar-cs-sc.rb
 
 1. See the result in `out.*` files.
 
