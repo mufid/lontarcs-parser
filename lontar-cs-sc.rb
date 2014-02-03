@@ -1,8 +1,11 @@
+#!/usr/env ruby
+
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'csv'
 require 'pp'
+require 'json'
 
 ##
 # Main parse function, return array
@@ -47,7 +50,8 @@ get_uri = 'http://lontar.cs.ui.ac.id/Lontar/opac/themes/ng/listtipekoleksi.jsp?i
 entry_per_page = 10
 output_csv = 'out.tsv'
 output_markdown = 'out.md'
-# don't have much time to convert to markdown. Send me pull request if you have improvement
+output_json = 'out.json'
+
 result = []
 
 puts "Using #{get_uri} as base uri."
@@ -100,3 +104,9 @@ end
 md += "\n\n"
 md += "[README]: https://github.com/mufid/lontarcs-parser/blob/master/README.md"
 File.write(output_markdown, md)
+
+# Output the JSON
+
+File.write(output_json, JSON.pretty_generate(result))
+
+# -- eof -- don't delete this line.
