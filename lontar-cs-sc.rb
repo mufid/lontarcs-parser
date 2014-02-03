@@ -46,7 +46,7 @@ end
 get_uri = 'http://lontar.cs.ui.ac.id/Lontar/opac/themes/ng/listtipekoleksi.jsp?id=4&start=%d&lokasi=lokal'
 entry_per_page = 10
 output_csv = 'out.tsv'
-# output_markdown = 'out.md'
+output_markdown = 'out.md'
 # don't have much time to convert to markdown. Send me pull request if you have improvement
 result = []
 
@@ -65,7 +65,7 @@ while (offset < total_document)
   current_uri = get_uri % offset
   current_page_object = parse_lontar(current_uri)
   result = result.concat(current_page_object)
-  offset += 10
+  offset += entry_per_page
 end
 
 # Sort the result by year, then by title
@@ -83,3 +83,20 @@ csv = CSV.generate({ :col_sep => "\t" }) do |csv|
 end
 File.write(output_csv, csv)
 
+# Output the markdown
+md = "# lontar.cs.ui.ac.id skripsi / bachelor thesis list"
+md += "\n\nGrouped by year. Why i am doing this? Read [README]"
+entries_by_year = result.group_by {|e| e[:year]}
+entries_by_year.each do |year, entries_in_year|
+  year = year == 0 ? "Unknown" : year
+  md += "\n\n## #{year}\n\n"
+  md += "<table>"
+  md += "<thead><th>Author</th><th>Call Number</th><th>Title</th>"
+  entries_in_year.each do |entries|
+    md += "<tr><td>#{entries[:author]}</td><td>#{entries[:call_number]}</td><td>#{entries[:title]}</td></tr>"
+  end
+  md += "</tbody></table>"
+end
+md += "\n\n"
+md += "[README]: https://github.com/mufid/lontarcs-parser/blob/master/README.md"
+File.write(output_markdown, md)
