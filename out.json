@@ -1,5 +1,1391 @@
 [
   {
+    "title": "A two-tiered approach to automatic jazz walking bass line generation using genetic algorithm",
+    "author": "Adya Danaditya",
+    "link": "detail.jsp?id=43255&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1413"
+  },
+  {
+    "title": "Adaptasi expectation-confirmation model untuk memprediksi pengaruh system quality dan service quality terhadap continuance intention behavior pada penggunaan aplikasi berbasis m-service: studi kasus aplikasi mobile GO-JEK",
+    "author": "Khalida Anggun",
+    "link": "detail.jsp?id=43519&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1459"
+  },
+  {
+    "title": "Agregasi informasi open data menggunakan teknologi linked data studi kasus data pendidikan dan lowongan kerja di Jakarta",
+    "author": "Ardian",
+    "link": "detail.jsp?id=43490&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1433"
+  },
+  {
+    "title": "Analisis efektivitas iklan personalisasi produk e-commerce di media sosial dan pengaruhnya terhadap keinginan membeli secara impulsif",
+    "author": "Virda Setyani",
+    "link": "detail.jsp?id=43578&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1487"
+  },
+  {
+    "title": "Analisis faktor-faktor internal dan eksternal yang mempengaruhi perilaku pengguna melakukan knowledge sharing melalui twitter TMC polda Meto Java menggunakan theory of planned behavior",
+    "author": "Annisa Monicha Sari",
+    "link": "detail.jsp?id=43514&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1452"
+  },
+  {
+    "title": "Analisis korelasi sentiment review tempat terhadap kepopuleran tempat pada location-based social network (LBSN)",
+    "author": "Dinda Susanti",
+    "link": "detail.jsp?id=43511&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1445"
+  },
+  {
+    "title": "Analisis model penerimaan locaton based advertising (LBA) oleh pengguna perangkat mobile",
+    "author": "Safira Azelytta",
+    "link": "detail.jsp?id=43508&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1448"
+  },
+  {
+    "title": "Analisis pengaruh brand community berbasis media sosial terhadap brand loyalty: studi kasus Uber",
+    "author": "Jamilah",
+    "link": "detail.jsp?id=43476&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-???"
+  },
+  {
+    "title": "Analisis perbandingan algoritma AD-Hoc on-demand distance vector dan tiny Ad-Hoc routing protocol pada sistem pemantauan Co2",
+    "author": "Aditya Murda Nugraha",
+    "link": "detail.jsp?id=43478&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1422"
+  },
+  {
+    "title": "Analisis proses bisnis ujian berbasis komputer (CBT) generik untuk mendukung operasional ujian pada tahapan pelaksanaan dan pasca pelaksanaan",
+    "author": "Hani Awaliyah",
+    "link": "detail.jsp?id=43522&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1464"
+  },
+  {
+    "title": "Analisis sentimen twitter terhadap kepuasan pelanggan menggunakan support vector machine, naive bayes, dan decision tree: studi kasus Go-Jek dan Grab",
+    "author": "Sonia Anastasia",
+    "link": "detail.jsp?id=43541&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1468"
+  },
+  {
+    "title": "Desain pengembangan aplikasi pembelajaran bahasa arab berbasis mobile",
+    "author": "Rian Fitriansyah",
+    "link": "detail.jsp?id=43485&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1427"
+  },
+  {
+    "title": "Deteksi emosi pada lagu bahasa indonesia secara otomatis menggunakan klasifikasi multi-label",
+    "author": "Mohammad Syahid Wildan",
+    "link": "detail.jsp?id=43479&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1424"
+  },
+  {
+    "title": "Deteksi stance pada teks berbahasa indonesia menggunakan fitur N-gram, sentimen, ortografi, dan proper name",
+    "author": "CAKRA WISHNU WARDHANA",
+    "link": "detail.jsp?id=43477&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1423"
+  },
+  {
+    "title": "Deteksi ujaran kebencian terkait dengan agama pada tweet berbahasa Indonesia menggunakan algoritma naiva bayes dan support vector machine",
+    "author": "Siti Hadiyan Pratiwi",
+    "link": "detail.jsp?id=43556&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1479"
+  },
+  {
+    "title": "Evaluasi dan perbaikan desain interaksi Massive Open Online Course (MOOC) di website Indonesiax.co.id",
+    "author": "Zahra Sharfina",
+    "link": "detail.jsp?id=43489&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1434"
+  },
+  {
+    "title": "Evaluasi kualitas e-service pada e-government: studi kasus BPJS kesehatan Indonesia",
+    "author": "Aulia  Rarsyid",
+    "link": "detail.jsp?id=43507&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1446"
+  },
+  {
+    "title": "Evaluasi pembacaan Al-qur'an otomatis menggunakan Fitur MFCC dan SFCC dengan metode klasifikasi SVM dan GMM",
+    "author": "Alfan Nur Fauzan",
+    "link": "detail.jsp?id=43524&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1465"
+  },
+  {
+    "title": "Extending the Product Selection Language of the Abstract Behavioral Specification (ABS) with Product Expressions",
+    "author": "Triando",
+    "link": "detail.jsp?id=43229&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1399"
+  },
+  {
+    "title": "Faktor-faktor pendukung dan penghambat serta strategi adopsi e-commerce dari sisi penjual di Indonesia",
+    "author": "Muslim",
+    "link": "detail.jsp?id=43528&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1453"
+  },
+  {
+    "title": "Faktor-faktor yang dapat membangun reputasi penjual di C2C e-marketplace di Indonesia",
+    "author": "Niea Kurnia Fajar",
+    "link": "detail.jsp?id=43525&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1466"
+  },
+  {
+    "title": "Faktor-faktor yang mempengaruhi keinginan untuk membeli secara impulse di social commerce instagram",
+    "author": "Elvina Susanti Sihombing",
+    "link": "detail.jsp?id=43551&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1481"
+  },
+  {
+    "title": "Faktor-faktor yang mempengaruhi kesuksesan implementasi knowledge management di PT. Jasa Marga (Persero) Tbk",
+    "author": "Raisiffah Kunthi",
+    "link": "detail.jsp?id=43509&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1447"
+  },
+  {
+    "title": "Faktor-faktor yang mempengaruhi niat masyarakat untuk berpartisipasi secara elektronik (e-participation): perluasan social cognitive theory",
+    "author": "Khoirunnida",
+    "link": "detail.jsp?id=43484&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1429"
+  },
+  {
+    "title": "Implementasi  convolutional  neural network untuk pemberian label pada foto restoran",
+    "author": "Abi Rafdi",
+    "link": "detail.jsp?id=43547&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1474"
+  },
+  {
+    "title": "Implementasi collaborative filtering content-based filtering dan weighted  parallel hybrid untuk sistem rekomendasi e-commerce di Indonesia: studi kasus PT XYZ",
+    "author": "Mustika Aprilianti",
+    "link": "detail.jsp?id=43574&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1486"
+  },
+  {
+    "title": "Implementasi convolutional nerual network untuk prediksi volume jantung dari slices citra MRI",
+    "author": "Rifqi Al Fatih",
+    "link": "detail.jsp?id=43512&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1450"
+  },
+  {
+    "title": "Implementasi metode gaussian mixture model background subtraction, algoritma hole filling dan metode gaussian blur pada GPU dengan platform cuda",
+    "author": "RIndra Wiska",
+    "link": "detail.jsp?id=43545&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1476"
+  },
+  {
+    "title": "Implementasi multi controller dengan metode acctive stanby untuk mengatasi controller failure pada jaringan SDN dengan menggunakan floodlight controller",
+    "author": "Teguh Iman Riadi",
+    "link": "detail.jsp?id=43542&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1471"
+  },
+  {
+    "title": "Implementasi prototipe alat pemantau kondisi udara ambient dan analisis korelasi kelembapan temperatur dan tensitas cahaya terhadap konsentrasi Co2",
+    "author": "Aulia Arshad",
+    "link": "detail.jsp?id=43464&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1418"
+  },
+  {
+    "title": "Integrasi grafitasi, subjective well-being dan expectation confirmation model untuk memprediksi perilaku penggunaan kembali aplikasi online dating",
+    "author": "Rizka Meutia Maulida",
+    "link": "detail.jsp?id=43496&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1439"
+  },
+  {
+    "title": "Klasifikasi data dengan atribut anonim oleh extreme gradient boosting dengan kombinasi fitur",
+    "author": "Thirafi Dide",
+    "link": "detail.jsp?id=43521&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1458"
+  },
+  {
+    "title": "Klasifikasi multi-label untuk mendeteksi elemen community of inquiry pada diskusi  online dalam learning management system",
+    "author": "Rika Amalia Rahmasari",
+    "link": "detail.jsp?id=43555&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1483"
+  },
+  {
+    "title": "Pemenuhan kepuasan dari keikutsertaan konsumen menjadi brand follower pada twitter dan dampaknya terhadap brand relationship quality serta keinginan konsumen untuk melakukan  electronic word-of mouth",
+    "author": "William Suwignyo",
+    "link": "detail.jsp?id=43492&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1435"
+  },
+  {
+    "title": "Pemrosesan  pertanyaan pada sistem tanya jawab bidang kesehatan dengan pendekatan pembelajaran mesin",
+    "author": "Abid Nurul Hakim",
+    "link": "detail.jsp?id=43540&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1470"
+  },
+  {
+    "title": "Pencarian artikel medis menggunakan metode query expansion dengan controlled vocabulary dan pembobotan kata",
+    "author": "Vicenda Diaz Putra S",
+    "link": "detail.jsp?id=43549&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1472"
+  },
+  {
+    "title": "Penerapan framework fuzzy AHP topsis untuk menyusun prioritas hambatan dan strategi dalam pengembangan proyek business intelligence",
+    "author": "Rayhan Anandya",
+    "link": "detail.jsp?id=43351&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1414"
+  },
+  {
+    "title": "Penerapan usabililty testing pada sistem cortana dan google now",
+    "author": "Andreas Hermawan",
+    "link": "detail.jsp?id=43494&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1436"
+  },
+  {
+    "title": "Penerapan user experience dalam pengembangan first time customer experience pada mobile APP BLIBLICOM",
+    "author": "Tyas Kusuma Handayani",
+    "link": "detail.jsp?id=43488&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1431"
+  },
+  {
+    "title": "Pengambangan desain interaksi social question and answere menggunakan metode goal-directed design",
+    "author": "Muhmmad banirahma Syahroni",
+    "link": "detail.jsp?id=43517&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1460"
+  },
+  {
+    "title": "Pengaruh interdependent selft-construal terhadap intention untuk berpartisipasi pada photo/video contest campaign di media sosial",
+    "author": "Ghaisani Kusumo W",
+    "link": "detail.jsp?id=43527&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1451"
+  },
+  {
+    "title": "Pengaruh kualitas layanan dan kepuasan pelanggan terhadap minat beli ulang pada situs mobile commerce",
+    "author": "Natan Sagari Maris",
+    "link": "detail.jsp?id=43481&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1426"
+  },
+  {
+    "title": "Pengaruh kualitas layanan pengiriman ekspress terhadap repurchase intention oleh pelanggan pada situs e-commerce di Indonesia",
+    "author": "Yoga Nurdani",
+    "link": "detail.jsp?id=43520&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1461"
+  },
+  {
+    "title": "Pengaruh kustomisasi dan perizinan pada location-based advertising terhadap niat berperilaku konsumen",
+    "author": "Fitri Purnama Sari",
+    "link": "detail.jsp?id=43474&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1417"
+  },
+  {
+    "title": "Pengaruh pemenuhan kebutuhan terhadap Intensi untuk membeli kembali digital items pada digital games",
+    "author": "Hilmy Mahfuzra",
+    "link": "detail.jsp?id=43491&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1432"
+  },
+  {
+    "title": "Pengaruh pengalaman pelanggan terhadap  keinginan pelanggan dalam  menerima dan berbagi informasi komersial pada situs social commerce kaskus",
+    "author": "Dahru Dzahaban",
+    "link": "detail.jsp?id=43515&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1454"
+  },
+  {
+    "title": "Pengaruh persepsi pengguna dan interaksi  terhadap kepercayaan antarapribadi dan dampaknya terhadap niat jual beli pengguna pada situs C2C e-commerc",
+    "author": "Fanny Tashia",
+    "link": "detail.jsp?id=43553&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1480"
+  },
+  {
+    "title": "Pengelompokan jawaban dan ekstraksi themes untuk prototipe sistem self-monitoring pada e-learning",
+    "author": "Aditya Zulfahmi",
+    "link": "detail.jsp?id=43475&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1421"
+  },
+  {
+    "title": "Pengembangan aplikasi penunjang gizi seimbang berbasis android dengan pemanfaatan accelerometer sensor sebagai penghitung pembakar kalori   per aktivitas",
+    "author": "Roland Raymond Dino",
+    "link": "detail.jsp?id=43548&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1473"
+  },
+  {
+    "title": "Pengembangan dan evaluasi protototipe sistem notifikasi pada sistem informasi akademik universitas",
+    "author": "Riswan Haryo Yudhianto",
+    "link": "detail.jsp?id=43506&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1444"
+  },
+  {
+    "title": "Pengembangan design interaksi materi intstruksional berdasarkan gaya belajar felder silverman",
+    "author": "Ayu Sahnaz Ovariyanti",
+    "link": "detail.jsp?id=43493&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1438"
+  },
+  {
+    "title": "Pengembangan environment ujian dengan metode audio visual dalam ujian berbasis komputer",
+    "author": "Evan Octavius Saputra",
+    "link": "detail.jsp?id=43581&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1490"
+  },
+  {
+    "title": "Pengembangan learning dashboard bagi pengajar : studi kasus scele Fakultas Ilmu Komputer Universitas Indonesia",
+    "author": "Alivia Khaira Batubara",
+    "link": "detail.jsp?id=43538&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1469"
+  },
+  {
+    "title": "Pengembangan learning dashboard bagi pengajar : studi kasus scele Fakultas Ilmu Komputer Universitas Indonesia",
+    "author": "Alivia Khaira Batubara",
+    "link": "detail.jsp?id=43537&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1469"
+  },
+  {
+    "title": "Pengembangan learning dashboard bagi pengajar : studi kasus scele Fakultas Ilmu Komputer Universitas Indonesia",
+    "author": "Alivia Khaira Batubara",
+    "link": "detail.jsp?id=43534&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1469"
+  },
+  {
+    "title": "Pengembangan program Translasi model abstract behavioral specification (ABS) menjadi Model UML dengan Delta Orienced Proggamming (DOP) profile",
+    "author": "Rizki Muhammad",
+    "link": "detail.jsp?id=43554&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1478"
+  },
+  {
+    "title": "Pengembangan prototipe aplikasi game dengan materi computational thinking: studi kasus siswa kelas V SD",
+    "author": "Muhammad Ardhan Fadhlurrahman",
+    "link": "detail.jsp?id=43523&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1463"
+  },
+  {
+    "title": "Pengembangan prototipe sistem pencarian dokumen terfederasi menggunakan jaringan hybrid peer to peer : studi kasus pendeteksian plagiarisme",
+    "author": "Widyanto Bagus Priambodo",
+    "link": "detail.jsp?id=43504&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1441"
+  },
+  {
+    "title": "Pengembangan software dan database sebagai bagian dari sistem informasi south-south and  triangular cooperation (SSTC) Indonesia",
+    "author": "Hendri Hermawan",
+    "link": "detail.jsp?id=43532&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1467"
+  },
+  {
+    "title": "Penyusunan kerangka untuk mengevaluasi dan meningkatkan kualitas knowledge management system (KMS) dengan mengintegrasikan KM Quality model kano dan quality function deployment (QFD): studi kasus Binusmaya",
+    "author": "Nur'aini Syamsiah",
+    "link": "detail.jsp?id=43568&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1485"
+  },
+  {
+    "title": "Penyusunan preferensi media sosial sebagai  kanal partisipasi secara elektronis (e-participation) kepada pemerintah di kalangan mahasiswa dengan menggunakan fuzzy AHP & Topsis",
+    "author": "Ariel Dame Sirait",
+    "link": "detail.jsp?id=43579&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1489"
+  },
+  {
+    "title": "Penyusunan ringkasan profil organisasi berbentuk timeline menggunakan named-entity recognition berbasis condition Al-Random field dan rule based extraction",
+    "author": "Khusna Nadia;  | Publisher: Depok",
+    "link": "detail.jsp?id=43503&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1442"
+  },
+  {
+    "title": "Perancangan business process model pada pengadaan barang/ Jasa di Fakultas Ilmu Komputer UI",
+    "author": "Swandriya",
+    "link": "detail.jsp?id=43254&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1412"
+  },
+  {
+    "title": "Perancangan dan implementasi learning analytics dashboard pada learning managements system scele menggunakan spring MVC",
+    "author": "Wasiat David",
+    "link": "detail.jsp?id=43544&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1477"
+  },
+  {
+    "title": "Perancangan dan implementasi sistem sinkronisasi database ujian berbasis komputer menggunakan symmetricds",
+    "author": "Yosua Lijanto Binar",
+    "link": "detail.jsp?id=43580&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1488"
+  },
+  {
+    "title": "Performance analysis of virtual machine and container for cloud based high peformance computing platform",
+    "author": "Muhammad Irfan Fadhila",
+    "link": "detail.jsp?id=43428&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1416"
+  },
+  {
+    "title": "Perluasan expectation confirmation model dengan perceived enjoyment untuk menganalsis  faktor-faktor instriksi dan ekstrinsik yang mempengaruhi penggunaan kembali aplikasi m-banking",
+    "author": "Nilamsari Putri Utami",
+    "link": "detail.jsp?id=43513&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1443"
+  },
+  {
+    "title": "Perumusan kamus data kompetensi pegawai studi kasus badan POM RI",
+    "author": "Haritztya Azka Zhaviri Masud",
+    "link": "detail.jsp?id=43487&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1430"
+  },
+  {
+    "title": "Prediksi internet addiction dan kesehatan secara umum menggunakan metode SVM berdasarkan web browsing history",
+    "author": "Wayan Surya Wibawa",
+    "link": "detail.jsp?id=43546&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1475"
+  },
+  {
+    "title": "Prediksi kelulusan berdasarkan nilai mata kuliah yang sudah diambil",
+    "author": "Dalilah Ghaisani",
+    "link": "detail.jsp?id=43529&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1455"
+  },
+  {
+    "title": "Prediksi risiko kegagalan mahasiswa pada mata kuliah struktur data algoritma mengunakan regularized multinomial logistic regression",
+    "author": "Fallon Candra",
+    "link": "detail.jsp?id=43463&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1419"
+  },
+  {
+    "title": "Proses bisnis tahap persiapan dan pra untuk mendukung kegiatan Ujian Berbasis Komputer (CBT) Genetik Menggunakan Smart Card dan Boot Server",
+    "author": "Siti Nurvianingrum",
+    "link": "detail.jsp?id=43557&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1484"
+  },
+  {
+    "title": "Simulasi dinamika molekular dengan docker container menggunakan GROMACS di atas muti node machine",
+    "author": "Ahmad Ibrahim",
+    "link": "detail.jsp?id=43530&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1456"
+  },
+  {
+    "title": "Simulasi dinamika molekular menggunakan aplikasi NAMD pada linkungan docker container di atas multi node machine",
+    "author": "Ahmad Ghofari;  | Publisher: Depok",
+    "link": "detail.jsp?id=43531&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1457"
+  },
+  {
+    "title": "Trust tranfer dan pengaruhnya terhadap penggunaan kembali personal cloud strorage service",
+    "author": "Tania Putri Permatasari",
+    "link": "detail.jsp?id=43552&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1482"
+  },
+  {
+    "title": "Usability evaluation sistem informasi manajemen rumah sakit: studi kasus aplikasi instalagi gawat darurat Rumah Sakit Umum Daerah Pasar Minggu",
+    "author": "Azka Khairun Nisa",
+    "link": "detail.jsp?id=43510&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1449"
+  },
+  {
+    "title": "Virtual screening dengan docker container di atas multi node machine",
+    "author": "Fiqie Budi Zulfikar",
+    "link": "detail.jsp?id=43526&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1462"
+  },
+  {
+    "title": "Visualisasi jaringan interaksi sosial collaborative learning pada forum diskusi online scele UI: studi kasus mata kuliah MPKT-B",
+    "author": "Rizky Andika Putra",
+    "link": "detail.jsp?id=43486&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1428"
+  },
+  {
+    "title": "Analisis container untuk virtual screening tanaman obat asli Indonesia dengan autodock dan outodoc vina",
+    "author": "Agung Putra Pasaribu",
+    "link": "detail.jsp?id=42822&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1358"
+  },
+  {
+    "title": "Analisis dan perancangan desain intruksional pada learning management system moodle dalam konteks fipped classroom",
+    "author": "Endang Panny Wahyuaningrum",
+    "link": "detail.jsp?id=42838&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1375"
+  },
+  {
+    "title": "Analisis data aktivitas mahasiswa dan akademik untuk pengembangan model prediktif menggunakan logistic regression: studi kasus mata kuliah matematika dasar dan aljabar linear",
+    "author": "Annisa Karimah A. Tamalate",
+    "link": "detail.jsp?id=42841&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1381"
+  },
+  {
+    "title": "Analisis faktor-faktor untuk penerimaan e-participation di DKI Jakarta,: studi kasus QLUE",
+    "author": "Rana Fathiya Kusuma",
+    "link": "detail.jsp?id=42812&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1352"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi keinginan berbagai pengetahuan di media warga dengan kerangka stimulus-organismic-reponse: studi kasus kompasiana",
+    "author": "Hana Fitriani",
+    "link": "detail.jsp?id=42803&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1337"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi repurchase intention pada situr Lazada Indoensia",
+    "author": "Natasha Natalia",
+    "link": "detail.jsp?id=42813&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1354"
+  },
+  {
+    "title": "Analisis fungsionalitas perangkat lunak customer relationship management pada perguruan tinggi: studi kasus Universitas Indonesia",
+    "author": "Bellalita R. Samik Ibrahim",
+    "link": "detail.jsp?id=42484&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1318"
+  },
+  {
+    "title": "Analisis hambatan implmentasi business intelligence : multi-kasus pada perusahaan Indonesia",
+    "author": "Ananta Besty",
+    "link": "detail.jsp?id=42840&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1379"
+  },
+  {
+    "title": "Analisis kematangan implementasi internet protocol version 6 (IPv6) di Universitas Indonesia dengan interim maturity evaluation dan capability maturity model for IPv6 implementation (CMMIPv61)",
+    "author": "Reza Mauliadi",
+    "link": "detail.jsp?id=42802&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1321"
+  },
+  {
+    "title": "Analisis kematangan implementasi internet protocol version 6 (IPv6) di Universitas Indonesia dengan interim maturity evaluation dan capability maturity model for IPv6 implementation (CMMIPv6I)",
+    "author": "Reza Mauliadi",
+    "link": "detail.jsp?id=42763&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1321"
+  },
+  {
+    "title": "Analisis kinerja docker untuk simulasi dinamika molekuler berbasis GPU dengan menggunakan AMBER",
+    "author": "Eka Satria Soekarno",
+    "link": "detail.jsp?id=43227&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1398"
+  },
+  {
+    "title": "Analisis kinerja virtualbox dan docker untuk platform cloud computing",
+    "author": "Muhammad Fajar Siddiq",
+    "link": "detail.jsp?id=42764&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1323"
+  },
+  {
+    "title": "Analisis kriteria dan sub kriteria teknologi, serta faktor adops teknologi  e-voting pada pemilu Presiden dan Wakil Presiden 2019",
+    "author": "Hillary Goretta H. Pasaribu",
+    "link": "detail.jsp?id=42837&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1374"
+  },
+  {
+    "title": "Analisis model penerimaan knowledge sharing system: studi kasus Bank X",
+    "author": "Fathia Prinastiti Sunarso",
+    "link": "detail.jsp?id=42783&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1332"
+  },
+  {
+    "title": "Analisis pengaruh ewon referal, celebrity endorsement, dan information quality terhadap purchases decision: studi kasus media sosial instragram",
+    "author": "Randy Danniswara",
+    "link": "detail.jsp?id=42842&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1382"
+  },
+  {
+    "title": "Analisis pengaruh faktor-faktor kapital sosial terhadap keinginan berbagi pengetahuan di facebook page perusahaan e-commerce di Indonesia",
+    "author": "Nurul Fajri Oktaviani",
+    "link": "detail.jsp?id=42784&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1330"
+  },
+  {
+    "title": "Analisis pengaruh kualitas ulasan online negatif dan kualitas pengulas pada produk experience terhadap keinginan membeli,  kepercayaan , dan review usefulness",
+    "author": "Fathiya El Huda",
+    "link": "detail.jsp?id=42833&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1378"
+  },
+  {
+    "title": "Analisis pengaruh proporsi dan kualitas ulasan elektronik negatif terhadap sikap dan keinginan pembelian konsumen untuk produk populer",
+    "author": "Audry Pragita Putri",
+    "link": "detail.jsp?id=42782&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1335"
+  },
+  {
+    "title": "Analisis pengaruh sumber informasi dan proporsi gambar destinasi wisata pada website pariwisata terhadap sikap dan keinginan melakukan perjalanan",
+    "author": "Febrian Adhitama",
+    "link": "detail.jsp?id=42787&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1333"
+  },
+  {
+    "title": "Analisis penggunaan gamification pada e-commerce B2C di Indonesia menggunakan octalysis framework",
+    "author": "Riandra Ramadana",
+    "link": "detail.jsp?id=42866&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1391"
+  },
+  {
+    "title": "Analisis penggunaan genetic algorithm untuk procedural level, generation pada permainan hunt the wumpus",
+    "author": "Taufan Satrio",
+    "link": "detail.jsp?id=42780&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1328"
+  },
+  {
+    "title": "Analisis perbandingan metode remote ansyncronous usability testing (forum dan diary) pada sistem informasi borang",
+    "author": "Syeftiarini Fani Sutendi",
+    "link": "detail.jsp?id=42808&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1348"
+  },
+  {
+    "title": "Aplikasi Neighbor Relativity Coefficient (NRC) untuk pencarian fungsi protein menggunakan data protein-protein interaction (PPI) manusia",
+    "author": "Ahmad Hafizh Zulyaden",
+    "link": "detail.jsp?id=42836&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1364"
+  },
+  {
+    "title": "Collaborative filtering implementation with autoencoder on loyalty platfrom data",
+    "author": "Tanya Nabila",
+    "link": "detail.jsp?id=42818&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1355"
+  },
+  {
+    "title": "Convolutional Neural Network Untuk Deteksi Facial Keypoint",
+    "author": "Nefri Suswita",
+    "link": "detail.jsp?id=43238&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1408"
+  },
+  {
+    "title": "Desain dan implementasi RPG quest generator berdasarkan analisis struktur quest dan pendekatan planning problem",
+    "author": "Daniel Januar",
+    "link": "detail.jsp?id=42469&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1310"
+  },
+  {
+    "title": "Deteksi artikel kontroversial pada media jurnalisme warga",
+    "author": "Sharon Raissa Herdiyana",
+    "link": "detail.jsp?id=42823&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1362"
+  },
+  {
+    "title": "Evaluasi dan pengembangan Indonesia open education resources berdasarkan prinsip desain interaksi",
+    "author": "Ibrahim Nurandita Isbandiputra",
+    "link": "detail.jsp?id=42810&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1349"
+  },
+  {
+    "title": "Evaluasi dan perancangan mock up knowledge management system kampium sesuai dengan kebutuhan generasi X dan Y pada PT Telekomunikasi Indonesia, Tbk",
+    "author": "Tyas Widi Asrini",
+    "link": "detail.jsp?id=42932&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1394"
+  },
+  {
+    "title": "Evaluasi dan perbaikan desain interaksi pembelajaran pemrograman dasar secara online pada Website Beling.Co",
+    "author": "Suci Fadhilah",
+    "link": "detail.jsp?id=42806&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1344"
+  },
+  {
+    "title": "Evaluasi desain interaksi dan perancangan prototipe alternatif situs berbasis e-culture: studi kasus e-indonesia",
+    "author": "Almer Radilatujani",
+    "link": "detail.jsp?id=43382&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1415"
+  },
+  {
+    "title": "Evaluasi metode donasi online di Indonesia dan validasi metode donasi online alternatif menggnakan pulsa di Indonesia: studi kasus mahasiswa Universitas Indonesia",
+    "author": "Rafi Putra Arriyan",
+    "link": "detail.jsp?id=42827&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1373"
+  },
+  {
+    "title": "Evaluasi perbandingan fitur knowledge management system: studi kasus Bank X",
+    "author": "Rizky Purwanto",
+    "link": "detail.jsp?id=42934&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1395"
+  },
+  {
+    "title": "Faktor-faktor yang mempengaruhi penggunaan uang elektronik berbasis mobile sebagai metode pembayaran pada situs e-commerce",
+    "author": "Amanda Ghaisani",
+    "link": "detail.jsp?id=42816&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1361"
+  },
+  {
+    "title": "Faktorisasi integer besar dengan algoritma quadratic sieve untuk aplikasi kriptografi",
+    "author": "Febry Antonius",
+    "link": "detail.jsp?id=42490&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1313"
+  },
+  {
+    "title": "Identifikasi jenis kelamin pengguna twitter di Indonesia",
+    "author": "Kent Wangsawan",
+    "link": "detail.jsp?id=42964&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1389"
+  },
+  {
+    "title": "Implementasi Protokol OAuth pada Sistem Single Sign On Universitas Indonesia untuk Perangkat Mobile",
+    "author": "Rama Syaliandra",
+    "link": "detail.jsp?id=43240&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1411"
+  },
+  {
+    "title": "Implementasi Single Layer Feedfroward Network dengan Fast Artificial Neural Network dan Extreme Learning Machine untuk Mendeteksi Facial Keypoints",
+    "author": "Dhata Karuni Mutia Masyita",
+    "link": "detail.jsp?id=43232&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1402"
+  },
+  {
+    "title": "Implementasi agoritma adaptive fuzzy-neuro generalized learning vector quantization (AFNGLVQ) pada field programmable gate array (EPGA)",
+    "author": "Irfan Nur Afif",
+    "link": "detail.jsp?id=42834&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1376"
+  },
+  {
+    "title": "Implementasi algoritma particle swarm optimization (PSO) pada proses pemilihan segmen dari multiple segmentation untuk segmentasi semantik pada citra",
+    "author": "Novian Habibie",
+    "link": "detail.jsp?id=42788&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1327"
+  },
+  {
+    "title": "Implementasi basisdata NOSQL pada sistem surat elektronik: studi kasus webmail Universitas Indonesia versi 2.0-platform boundcube web imap email client",
+    "author": "Bagas Cita Graha",
+    "link": "detail.jsp?id=42846&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1383"
+  },
+  {
+    "title": "Implementasi collaborative filtering dengan singular value decomposition untuk sistem ",
+    "author": "Muhammad Irfan Handarbeni",
+    "link": "detail.jsp?id=42798&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1341"
+  },
+  {
+    "title": "Implementasi collaborative filtering menggunakan restricted boltzmann machine untuk sistem rekomendasi pada data aplikasi loyalty program",
+    "author": "Adrian ALfarisy",
+    "link": "detail.jsp?id=42786&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1329"
+  },
+  {
+    "title": "Implementasi home automation gateway untuk IOT cloud service berbasis zigbee network",
+    "author": "Fauziah Rahmawati",
+    "link": "detail.jsp?id=42486&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1317"
+  },
+  {
+    "title": "Implementasi model komunikasi publish and subscribe sebagai jalur komunikasi pada social internet of things platform",
+    "author": "Abdullah Izzuddin Alqassam",
+    "link": "detail.jsp?id=42804&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1347"
+  },
+  {
+    "title": "Implementasi optimasi triangle inequality pada self-organizing map",
+    "author": "William Gozali",
+    "link": "detail.jsp?id=42778&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1325"
+  },
+  {
+    "title": "Implementasi prototipe sistem routing surel menggunakan protokol managesieve: studi kasus sistem surel Universitas Indonesia",
+    "author": "Zaka Zaidan Azminur",
+    "link": "detail.jsp?id=42791&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1334"
+  },
+  {
+    "title": "Implementasi service mashup pada social internet of things platform",
+    "author": "M. Redho Ayassa",
+    "link": "detail.jsp?id=42805&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1345"
+  },
+  {
+    "title": "Implementasi social hub pada intenet of things platform menggunakan facebook api",
+    "author": "Jouvy Alif Pradewo",
+    "link": "detail.jsp?id=42825&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1371"
+  },
+  {
+    "title": "Implementasi things management pada social internet of things platform",
+    "author": "Prakoso Adi Nugroho",
+    "link": "detail.jsp?id=42826&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1372"
+  },
+  {
+    "title": "Implementasi zigbee gateway berbasis GUI menggunakan rasperberry PI untuk social internet of things platform",
+    "author": "Luqman Sungkar",
+    "link": "detail.jsp?id=42789&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1336"
+  },
+  {
+    "title": "Klasifikasi dua tahap untuk mendeteksi emosi pada tweet berbahasa indonesia",
+    "author": "Johanes Effendi The",
+    "link": "detail.jsp?id=42753&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1320"
+  },
+  {
+    "title": "Klasifikasi lagu berbahasa Inggris menggunakan  lirik berdasarkan kesesuaian umur",
+    "author": "Anggi Maulidyani H.",
+    "link": "detail.jsp?id=42832&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1366"
+  },
+  {
+    "title": "Learning analytics pada data aktivitas mahasiswa dengan menggunakan self-organizing maps",
+    "author": "Jacky",
+    "link": "detail.jsp?id=42830&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1368"
+  },
+  {
+    "title": "Mesin penerjemah statistik Sunda-Indonesia menggunakan pendekatan phrase-based, hiearchical, dan factored model",
+    "author": "Irania",
+    "link": "detail.jsp?id=42819&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1356"
+  },
+  {
+    "title": "Myner: pengenalan entitas bernama pada tweet bahasa indonesia ",
+    "author": "Natanael Taufik",
+    "link": "detail.jsp?id=42869&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1388"
+  },
+  {
+    "title": "Pembelajaran structured support vector machine pada conditional random fields menggunakan google images untuk segmentasi semantik",
+    "author": "Rizki Perdana Rangkuti",
+    "link": "detail.jsp?id=42485&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1319"
+  },
+  {
+    "title": "Pembuatan sistem pelengkap kalimat dengan pemodelan bahasa N-Gram",
+    "author": "Ivan Putera Masli",
+    "link": "detail.jsp?id=42470&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1311"
+  },
+  {
+    "title": "Pemetaan Persebaran Penyakit di Indonesia Menggunakan Data Sosial Medi",
+    "author": "Enreina Annisa Rizkiasri",
+    "link": "detail.jsp?id=43234&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1404"
+  },
+  {
+    "title": "Pemilihan segmen dari berbagai segmentasi untuk segmentasi semantik berdasarkan conditional random field melalui latent dirichlet allocation dan algoritme genetika",
+    "author": "Jogie Chandra",
+    "link": "detail.jsp?id=42491&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1314"
+  },
+  {
+    "title": "Penelaahan simbologi barcode PDF417 dan implementasi readernya menggunakan bahasa java pada platform android",
+    "author": "Febriana Wulan Sari",
+    "link": "detail.jsp?id=42489&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1312"
+  },
+  {
+    "title": "Penerapan Object Relational Mapping (ORM) untuk pengembangan Software Product Line (SPL) berbasis web dengan bahasa pemodelan abstract behavioral specification (ABS)",
+    "author": "Kandito Agung Wicaksono",
+    "link": "detail.jsp?id=42835&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1377"
+  },
+  {
+    "title": "Pengaruh parasocial interaction terhadap minat calon mahasiswa untuk mendaftar di Perguruan Tinggi dan Keinginan untuk berbagi informasi melalui E-WOM",
+    "author": "Nurul Magfirah Putram",
+    "link": "detail.jsp?id=42811&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1351"
+  },
+  {
+    "title": "Pengaruh tahapan permintaan umpan balik pada pengembangan produk teknologi informasi dan komunikasi : studi kasus mata kuliah proyek perangkat lunak",
+    "author": "Fauzan Helmi Sudaryanto",
+    "link": "detail.jsp?id=42785&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1331"
+  },
+  {
+    "title": "Pengembangan Boot Server Ujian Berbasis Komputer dengan Menggunakan Raspberry Pi",
+    "author": "Fahmi Rahmat Kurniawan",
+    "link": "detail.jsp?id=43239&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1410"
+  },
+  {
+    "title": "Pengembangan Sistem Dashboard Digital Sebagai Alat Bantu Untuk Meningkatkan Efektivitas Pemantauan Serta Analisis Permasalahan Akademik: Studi Kasus Bidang Pendidikan Fakultas Ilmu Komputer, Universitas Indonesia",
+    "author": "Arief Rahman Sinatrya",
+    "link": "detail.jsp?id=43236&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1406"
+  },
+  {
+    "title": "Pengembangan aplikasi real-time chat dengan platform Node.JS student centered e-learning environment",
+    "author": "Nu'man Naufal",
+    "link": "detail.jsp?id=42820&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1365"
+  },
+  {
+    "title": "Pengembangan dan evaluasi online self-monitoring tool",
+    "author": "Isnaeni Nurrohmah",
+    "link": "detail.jsp?id=42467&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1308"
+  },
+  {
+    "title": "Pengembangan data warehouse menggunakan Nine-STEP methodology",
+    "author": "Hargiyanti Wulan Anggi Utami",
+    "link": "detail.jsp?id=42809&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1350"
+  },
+  {
+    "title": "Pengembangan metode enkripsi-dekripsi data soal dan jawaban ujian berbasis komputer memanfaatkan smart card di atas raspberry PI",
+    "author": "Leonardo Kevin Japri",
+    "link": "detail.jsp?id=43218&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1397"
+  },
+  {
+    "title": "Pengembangan metode penambangan frequent sequence berbasis framework komputasi terdistribusi spark",
+    "author": "Prasetya AJie Utama",
+    "link": "detail.jsp?id=42815&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1360"
+  },
+  {
+    "title": "Pengembangan metode penilaian semantic similarity antara folktale menggunakan plot graph",
+    "author": "Victoria Anugrah Lestari",
+    "link": "detail.jsp?id=42487&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1316"
+  },
+  {
+    "title": "Pengembangan modul gamification pada sistem online learning cozora",
+    "author": "Aulia Viyansyah Afif",
+    "link": "detail.jsp?id=42931&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1393"
+  },
+  {
+    "title": "Pengembangan perangkat mobile enumerator untuk pelaksanaan survei elektronik secara offline : studi kasus survei medis",
+    "author": "Erza Radifan Rahmat",
+    "link": "detail.jsp?id=42828&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1370"
+  },
+  {
+    "title": "Pengembangan prototipe hasil analisis aspek usability website e-goverment : studi kasus website Direktorat Jenderal Pajak Indonesia dengan India",
+    "author": "Aldi Reinaldi",
+    "link": "detail.jsp?id=42845&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1384"
+  },
+  {
+    "title": "Pengembangan prototipe perangkat pendeteksi plat nomor kendaraan menggunakan modul kamera Raspberry PI dan library openalpr",
+    "author": "Rasmunandar Rustam",
+    "link": "detail.jsp?id=42824&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1363"
+  },
+  {
+    "title": "Pengembangan prototipe prsentronik: alat presensi elektronik mahasiswa dengan menggunakan near field communication (NFC) pada smartphone berbasis android",
+    "author": "Emir Syehsar Tahir",
+    "link": "detail.jsp?id=42844&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1385"
+  },
+  {
+    "title": "Pengembangan prototipe sistem identitas elektronik berbasis near field communication (NFC) sebagai alternatif kartu identitas mahasiswa UI",
+    "author": "Satrio Dwi Huripto",
+    "link": "detail.jsp?id=42781&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1340"
+  },
+  {
+    "title": "Pengembangan prototipe sistem secure data transfer secara offline menggunakan teknologi smart card dan near field communication (NFC) pada perangkat android",
+    "author": "Ruhush, Shoalihin",
+    "link": "detail.jsp?id=42925&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1390"
+  },
+  {
+    "title": "Pengembangan responsive website dan analisis user experience: studi website PT. Kreavi Indonesia",
+    "author": "Putu Agya Paramartha",
+    "link": "detail.jsp?id=42807&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1342"
+  },
+  {
+    "title": "Pengembangan script generator dari quest specification dan implementasinya pada game RPG neverwinter nights",
+    "author": "Aradea Krisnaraga",
+    "link": "detail.jsp?id=42468&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1309"
+  },
+  {
+    "title": "Pengembangan sistem named entity recognition menggunakan algoritme semi-supervised pada dokumen bahasa indonesia berbasis CRF dan HMM",
+    "author": "Rezka Aufar Leonandya",
+    "link": "detail.jsp?id=42868&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1387"
+  },
+  {
+    "title": "Pengenalan bahasa lisan otomatis dengan metode fonotaktik untuk bahasa daerah: Minang, Sunda, dan Jawa",
+    "author": "Nur Endah Safitri",
+    "link": "detail.jsp?id=42907&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1392"
+  },
+  {
+    "title": "Pengenalan entitas kesehatan pada forum kesehatan online berbahasa Indonesia menggunakan algoritma conditional random fields",
+    "author": "Raditya Herwando",
+    "link": "detail.jsp?id=43505&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1440"
+  },
+  {
+    "title": "Pengenalan objek dengan convolutional neural network untuk scoring segmentasi semantik",
+    "author": "Fariz Ikhwantri",
+    "link": "detail.jsp?id=42779&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1326"
+  },
+  {
+    "title": "Penggunaan basisdata nosql pada perpustakaan dijital: studi kasus modul pengolahan library automation and digital archive Universitas Indonesia version 3.0 (Lontar UI v3.0)",
+    "author": "Hermansyah",
+    "link": "detail.jsp?id=42488&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1315"
+  },
+  {
+    "title": "Penyusunan Prioritas Teknologi Manajemen Pengetahuan untuk Mengatasi Faktor Risiko dalam Pengembangan Perangkat Lunak dengan Menggunakan Fuzzy AHP-TOPSI",
+    "author": "Theo Pratama Silitonga",
+    "link": "detail.jsp?id=43230&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1400"
+  },
+  {
+    "title": "Penyusunan prioritas strategi dalam mengatasi hambatan pada adopsi open government data menggunakan metode fuzzy AHP-TOPSIS",
+    "author": "Gary Alexander",
+    "link": "detail.jsp?id=43231&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1401"
+  },
+  {
+    "title": "Penyusunan riwayat pekerjaan menggunakan metode linguistik dan statistik",
+    "author": "Shirley Anugrah Hayati",
+    "link": "detail.jsp?id=43235&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1405"
+  },
+  {
+    "title": "Peran elektroinc customer relationship management (e-CRM) pada XI Axiata dan Pengaruhnya terhadap pengembangan produk",
+    "author": "Aliviani Ayu Larashati",
+    "link": "detail.jsp?id=42817&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1359"
+  },
+  {
+    "title": "Perancangan data mart, dashboard , dan web service untuk learning analytics pada mata kuliah DDP dan SDA",
+    "author": "Verdiyanto Saputra",
+    "link": "detail.jsp?id=42792&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1339"
+  },
+  {
+    "title": "Perancangan touch gesture untuk translasi dan rotasi objek tiga dimensi",
+    "author": "Vemmy Yusiana",
+    "link": "detail.jsp?id=42466&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1307"
+  },
+  {
+    "title": "Perbaikan komponen candidate retrieval untuk meningkatkan kinerja metode deteksi plagiarisme eksternal pada dokumen berbahasa Indnoesia",
+    "author": "Felik Junvianto",
+    "link": "detail.jsp?id=42843&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1386"
+  },
+  {
+    "title": "Perbandingan metode evaluasi user experience sentece completion dan semi-structured experience interview : studi kasus sistem informasi surat",
+    "author": "Tyas Meuthia Ainul Waffa",
+    "link": "detail.jsp?id=42814&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1353"
+  },
+  {
+    "title": "Perbandingan metode operasi aritmatika pembagian dan akar kwadrat pada field programmable gate array (FPGA)  dalam penerapannya pada algoritma geeneralized extreme studentized deviate (GED): evaluasi terhadap penggunaan sumber daya",
+    "author": "Dwi Teguh Priyantini",
+    "link": "detail.jsp?id=42800&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1346"
+  },
+  {
+    "title": "Perbandingan metode vertical scaling dan horizontal scaling dengan teknik sharding pada basis data NOSQL",
+    "author": "MUsa Alfatih",
+    "link": "detail.jsp?id=42831&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1367"
+  },
+  {
+    "title": "Peringkas temporal dokumen berita berbahasa Indonesia menggnakan latent direchlet allocation",
+    "author": "Kenneth Vincent",
+    "link": "detail.jsp?id=42829&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1369"
+  },
+  {
+    "title": "Perpindahan Kepercayaan dan Dampaknya Terhadap Keinginan untuk Menggunakan E-Payment di C2C EMarketplace",
+    "author": "Septi Rito Tombe",
+    "link": "detail.jsp?id=43237&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1407"
+  },
+  {
+    "title": "Prediksi harga saham dengan linear regression berdasarkan analisis sentimen",
+    "author": "Yahya Eru Cakra",
+    "link": "detail.jsp?id=42839&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1380"
+  },
+  {
+    "title": "Prediksi rating menggunakan maximum entropy model pada ulasan restoran berbahasa Indonesia",
+    "author": "Ginanjar Ibnu Solikhin",
+    "link": "detail.jsp?id=42790&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1338"
+  },
+  {
+    "title": "Segmentasi citra satelit menggunakan metode brightness invariant terrain segmentr (EITS)",
+    "author": "Hadiyan Nur Rochman",
+    "link": "detail.jsp?id=42766&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1322"
+  },
+  {
+    "title": "Segmentasi kata berbasiskan kamus pada aksara jawa",
+    "author": "Dipta Tanaya",
+    "link": "detail.jsp?id=42799&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1343"
+  },
+  {
+    "title": "Smart Sensor Untuk Desain Controller Pada Sistem Irigasi Tetes",
+    "author": "Hafiyyan Sayyid Fadhlillah",
+    "link": "detail.jsp?id=43241&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1409"
+  },
+  {
+    "title": "Trust Transfer and Its Effects on The Continuance Usage of Mobile Service in B2C E-marketplaces",
+    "author": "Made Ayu Aristyana Dewi",
+    "link": "detail.jsp?id=43233&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1403"
+  },
+  {
+    "title": "Usability evaluation website e-goverment layanan aspirasi dan pengaduan online rakyat (LAPOR): perbandingan antara existing product dan development product",
+    "author": "Amalia Mardhia Ersa",
+    "link": "detail.jsp?id=42821&lokasi=lokal",
+    "year": 2015,
+    "call_number": "SK-1357"
+  },
+  {
+    "title": "Analisis budaya organisasi dan dampaknya terhadap keingingan berbagi pengetahuan multi-kasus pada perusahaan TI berbasis proyek",
+    "author": "Naomi Valentina Simanjuntak",
+    "link": "detail.jsp?id=41954&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1263"
+  },
+  {
+    "title": "Analisis dan desain antarmuka sistem basis data tanaman obat Indonesia",
+    "author": "Annisa Prida Rachmadianty",
+    "link": "detail.jsp?id=41963&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1272"
+  },
+  {
+    "title": "Analisis dan desain retail shop management berbasis cloud computing studi kasus fashion store",
+    "author": "Gaby Nova Shintya Ratmantari",
+    "link": "detail.jsp?id=41932&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1240"
+  },
+  {
+    "title": "Analisis dan perancangan antarmuka learning dashboard pada student centered e-learning environment",
+    "author": "Swastu Puri Antini",
+    "link": "detail.jsp?id=41984&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1290"
+  },
+  {
+    "title": "Analisis dan rancangan sisem informasi klinik kesehatan (E-Clinic) berbasis Cloud Computing",
+    "author": "Nurlaili Fajriyah",
+    "link": "detail.jsp?id=41975&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1274"
+  },
+  {
+    "title": "Analisis faktor-faktor kualitas teknis dan fungsional layanan mobile internet yang mempengaruhi kepuasan dan dampaknya terhadap kesetiaan pengguna",
+    "author": "Aldyra Dhien Swavira",
+    "link": "detail.jsp?id=41925&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1233"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi adopsi social CRM dengan menggunakan kerangka Technology, Organization, and Environemnt (TOE) dan Analytic Hierarchy Process (AHP)",
+    "author": "Dinna Amelina",
+    "link": "detail.jsp?id=41944&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1248"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi kegiatan knowledge sharing pada domain KO-AS : studi kasus rumah sakit pendidikan Atma Jaya Pluit",
+    "author": "Esther Hannateta Daniel",
+    "link": "detail.jsp?id=41982&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1288"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi penggunaan uang elektronik untuk perwujudan less cash society di Universitas Indonesia",
+    "author": "Ardanella Purnamasari Nelwan",
+    "link": "detail.jsp?id=41987&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1293"
+  },
+  {
+    "title": "Analisis implementasi IT service management yang berfokus kepada penerapan incident management, problem  management dan change management terhadap ITIL , v3 yang dipetakan pada COBIT: 4.1: Studi kasus PT. Aplikanusa Lintasarta",
+    "author": "Surya Adhi Saputra",
+    "link": "detail.jsp?id=41961&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1270"
+  },
+  {
+    "title": "Analisis pengaruh customer knowledge accuisition terhadap kinerja perusahaan di Indonesia studi kasus industri perbankan dan asuransi",
+    "author": "Ajeng Anugrah Lestari",
+    "link": "detail.jsp?id=41933&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1239"
+  },
+  {
+    "title": "Analisis pengaruh e-wom dan pencarian informasi terhadap perceived value dan kepercayaan pelanggan dalam mempengaruhi keinginan untuk melakukan transaksi online group buying",
+    "author": "Mutia Ovirza",
+    "link": "detail.jsp?id=41926&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1236"
+  },
+  {
+    "title": "Analisis pengaruh kualitas situs M-commerce terhadap keinginan pengguna untuk membeli secara impulsif di Indonesia",
+    "author": "Fauria Bisara",
+    "link": "detail.jsp?id=41958&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1267"
+  },
+  {
+    "title": "Analisis pengaruh kualitas situs internet banking terhadap kepuasan pelanggan dan dampaknya terhadap kesetiaan, positive word-of-mouth, dan intensi untuk menggunakan kembali situs internet banking",
+    "author": "Dhabith Muhtadi",
+    "link": "detail.jsp?id=41962&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1271"
+  },
+  {
+    "title": "Analisis pengaruh online review terhadap keinginan untuk melakukan perjalanan wisata dilihat dati karakteristik informasi, informan, dan sistem",
+    "author": "Rahmi Johanes",
+    "link": "detail.jsp?id=41946&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1255"
+  },
+  {
     "title": "Analisis perbandingan metode coaching think aloud protocol dan silent condition terhadap goal dari user-centered design: studi kasus pada aplikasi clodeo",
     "author": "Arra Adidaya",
     "link": "detail.jsp?id=41348&lokasi=lokal",
@@ -7,11 +1393,445 @@
     "call_number": "SK-1223"
   },
   {
+    "title": "Analisis perbandingan user experience untuk memberikan rekomendasi pada aplikasi kolaborasi online: studi kasus aplikasi manajemen proyek trello dan asana",
+    "author": "Firlia Sandyta",
+    "link": "detail.jsp?id=41927&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1232"
+  },
+  {
+    "title": "Analisis rancangan infrastruktur teknologi informasi pada layanan konektivitas internet: studi kasus jaringan Universitas Indonesia Terpadu (JUITA)",
+    "author": "Haga Nurikhsan",
+    "link": "detail.jsp?id=41943&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1252"
+  },
+  {
+    "title": "Analisis tingkat dukungan operational analytical dan collaborative CRM terhadap proses pelanggan pada perusahaan besar di Indonesianciptaan pengetahuan pelanggan",
+    "author": "Imanuel Sukrisna",
+    "link": "detail.jsp?id=41955&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1264"
+  },
+  {
+    "title": "Audit keamanan data waktu kredit dengan menggunakan kerangka kerja PCI DSS 3.0 : studi kasus perusahaan XYZ",
+    "author": "Febriana Misdianti",
+    "link": "detail.jsp?id=41939&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1247"
+  },
+  {
+    "title": "Deteksi emerging topic pada dokumen microblog berbahasa Indonesia",
+    "author": "Dimas Prawita",
+    "link": "detail.jsp?id=41968&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1281"
+  },
+  {
+    "title": "Deteksi gempa berbasiskan rekaman sensor acclererometer pada smartphone dengan pendekatan pola getaran dan pemelajaran mesin",
+    "author": "Alham Fikri Aji",
+    "link": "detail.jsp?id=41917&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1231"
+  },
+  {
+    "title": "Deteksi tulisan off-topic pada forum diskusi dengan metode deteksi teks anomali",
+    "author": "Kemal Maulana Kurniawan",
+    "link": "detail.jsp?id=42465&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1305"
+  },
+  {
+    "title": "Eksploitasi peran dari konsep CRM 2.0 terhadap proses dalam customer knowledge creation dan customer knoledge type",
+    "author": "Dimash Narendra",
+    "link": "detail.jsp?id=41977&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1276"
+  },
+  {
+    "title": "Evaluasi aplikasi  moodle mobile sebagai panduan pengembangan prototipe scele mobile",
+    "author": "Niken Paramita",
+    "link": "detail.jsp?id=41972&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1284"
+  },
+  {
+    "title": "Evaluasi kualitas situs web e-commerce maskapai penerbangan , studi kasus situs web Airasia dan Lion Air",
+    "author": "Farah Shafira Effendi",
+    "link": "detail.jsp?id=41952&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1261"
+  },
+  {
+    "title": "Evaluasi tingkat availability rancangan data center studi kasus PT. XYZ menggunakan metode compliance audit dengan standar TIA-942 2010",
+    "author": "Theresia Devy Randha Saraswati",
+    "link": "detail.jsp?id=41935&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1249"
+  },
+  {
+    "title": "Evaluasi user experience dan perancangan ulang antarmuka OPAC (Online Public Access Catalog) aplikasi LONTAR (Library Automation and Digital Archive)",
+    "author": "Rahma Islami Lukitasi",
+    "link": "detail.jsp?id=41985&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1291"
+  },
+  {
+    "title": "Faktor-faktor kematangan  keselarasan teknologi informasi dan bisnis pada strategic aligmnment model Luftman : Studi Komparatif pada usaha kecil, menengah, dan besar",
+    "author": "Mohammad Ikhsan Rahardian",
+    "link": "detail.jsp?id=41956&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1265"
+  },
+  {
+    "title": "Hambatan berbagi pengetahuan pada proyek teknologi informasi dari aspek teknologi organisasi, dan individu: multi-kasus pada perusahaan teknologi informasi",
+    "author": "Aulia Damarreza",
+    "link": "detail.jsp?id=41936&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1250"
+  },
+  {
+    "title": "Implementasi 2D set partitioning in hierarchical tree pada sistem tertanam untuk kopresi data electrocardiogram multilead",
+    "author": "Grafika Jati",
+    "link": "detail.jsp?id=42091&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1301"
+  },
+  {
+    "title": "Implementasi algoritma klasifikasi fuzzy-neuro generalized learning vector quantization (FNGLVQ) dengan PI membership function pada field-progrrammable gate array (FPGA): desain dan simulasi",
+    "author": "Ricky Arifandi Daniel",
+    "link": "detail.jsp?id=42090&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1300"
+  },
+  {
+    "title": "Implementasi algoritma moving average based filtering system untuk deteksi sinyal QRS pada sinyal EKG multilead",
+    "author": "Muhammad Kholid Arofi R",
+    "link": "detail.jsp?id=41981&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1277"
+  },
+  {
+    "title": "Implementasi dan analisis algoritma deep learning yang disebut stacked autoencoder pada dataset citra sinyal dan teks",
+    "author": "Andros",
+    "link": "detail.jsp?id=41949&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1258"
+  },
+  {
+    "title": "Implementasi lampu yang dapat dikendalikan secara nirkabel menggunakan teknologi zigbee light link",
+    "author": "Rizqi Synergy",
+    "link": "detail.jsp?id=42401&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1302"
+  },
+  {
+    "title": "Implementasi metode pemasangan kalimat untuk pembuatan parallel corpora antara bahasa Indonesia dan bahasa daerahnya : Suti Kasus Wikipedia",
+    "author": "Dyah Inastra Damapuspita",
+    "link": "detail.jsp?id=41942&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1246"
+  },
+  {
+    "title": "Implementasi papan harga digital dengan layar electronic ink dengan jaringan mesh berbasis protokol zigbee",
+    "author": "Muhammad Mufid Afif",
+    "link": "detail.jsp?id=42032&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1296"
+  },
+  {
+    "title": "Implementasi ulang sistem basis data tanaman obat indonesia dengan arsitektur model-view-controller (MVC) dan YII framework",
+    "author": "Mohammad Afour Satria",
+    "link": "detail.jsp?id=42013&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1295"
+  },
+  {
+    "title": "Implementasi zigbee coordinator dengan rest interface",
+    "author": "Nisrina Luthfiyati",
+    "link": "detail.jsp?id=42040&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1297"
+  },
+  {
+    "title": "Integrasi delone & mclean information system sucess factor model dengan expectation confirmation model untuk memprediksi kontinuitas penggunaan knowledge management system",
+    "author": "Gilang Pamenan",
+    "link": "detail.jsp?id=41941&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1245"
+  },
+  {
+    "title": "Investigasi pemanfaatan web 2.0 untuk knowledge management (KM) oleh profesional tekologi informasi",
+    "author": "Elizabeth",
+    "link": "detail.jsp?id=41940&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1253"
+  },
+  {
+    "title": "Keamanan cloud computing dengan menggunakan fully homomophic encryption (FHE)",
+    "author": "Juan Karsten",
+    "link": "detail.jsp?id=41816&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1228"
+  },
+  {
+    "title": "Metode pembentukan korpus teks dengan memanfaatkan twitter:  studi kasus Bahasa Jawa",
+    "author": "Mercia",
+    "link": "detail.jsp?id=41970&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1283"
+  },
+  {
+    "title": "Panel kendali zigbee light dengan antarmuka layar sentuh pada beaglebone black",
+    "author": "Fredric Sanjaya",
+    "link": "detail.jsp?id=42079&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1298"
+  },
+  {
+    "title": "Pemodelan arsitektur teknologi sistem informasi manajemen rumah sakit dengan menggunakan tahapan the Open Group Architecture Framework (TOGAF): Studi kasus RSUP Persahabatan",
+    "author": "Rizky Amalia Kurnia",
+    "link": "detail.jsp?id=41959&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1268"
+  },
+  {
     "title": "Pendeteksian gempa berbasiskan sensor accelerometer pada smartphone dengan pengolahan sinyal frekuensi dan pemelajaran mesin",
     "author": "Hafizh Kalamullah",
     "link": "detail.jsp?id=41361&lokasi=lokal",
     "year": 2014,
     "call_number": "SK-1224"
+  },
+  {
+    "title": "Penelaahan dan implementasi metode runge-kutta symplectic dengan effective order 4",
+    "author": "Raja Oktovin Parhasian Damanik",
+    "link": "detail.jsp?id=42464&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1304"
+  },
+  {
+    "title": "Penelaahan simbologi barcode PDF417 dan implementasi generatornya",
+    "author": "Ashar Fuadi",
+    "link": "detail.jsp?id=41916&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1230"
+  },
+  {
+    "title": "Penerapan big data dengan mongoDB: studi kasus pada data Forum SCeLE Fasilkom UI",
+    "author": "Argianto Rahartomo",
+    "link": "detail.jsp?id=41945&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1254"
+  },
+  {
+    "title": "Penerapan kerangka kerja SNI ISO/IEC 27001:2009 untuk audit keamanan jaringan nirkabel : studi kasus PT. PGAS solution",
+    "author": "Wilhan Tjahjadi",
+    "link": "detail.jsp?id=41976&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1275"
+  },
+  {
+    "title": "Pengembangan aplikasi monitoring berbasis protokol SNMP untuk Fakultas Ilmu Komputer Universitas Indonesia",
+    "author": "Maldy Vinandar Agavia",
+    "link": "detail.jsp?id=41973&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1280"
+  },
+  {
+    "title": "Pengembangan basis data NOSQL secara terdistribusi menggunakan HBSE (Hadoop database) untuk meningkatkan performa query",
+    "author": "Mochammad Sidqi Hadyan",
+    "link": "detail.jsp?id=41960&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1269"
+  },
+  {
+    "title": "Pengembangan basis data hybrid antara basis data relasional basis data non-relasional studi kasus postgresql dan mongobd",
+    "author": "Egidius Richang",
+    "link": "detail.jsp?id=41930&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1243"
+  },
+  {
+    "title": "Pengembangan business intelligence sebagai alat bantu monitoring finansial untuk meningkatkan efektivitas pengambilan keputusan strategis pada PT. XYZ",
+    "author": "Muhammad Umar Abdul Aziz",
+    "link": "detail.jsp?id=41934&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1238"
+  },
+  {
+    "title": "Pengembangan dan analisis user experience pada aplikasi web e-indonesiana versi mobile",
+    "author": "Dimas Agung Saputra",
+    "link": "detail.jsp?id=41931&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1241"
+  },
+  {
+    "title": "Pengembangan geospatial dashboard dengan pendekatan analytic hierarchy processing pada kegiatan ekspansi lokasi kantor cabang studi kasus: PT Rekan Usaha Mikro Anda",
+    "author": "Adrian Nuradiansyah",
+    "link": "detail.jsp?id=41805&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1227"
+  },
+  {
+    "title": "Pengembangan knowledge portal untuk praktisi kesehatan di Rumah Sakit  jiwa dengan pendekatan soft sysem methodology dan unified model language studi kasus Rumah Sakit Jiwa DR Barzoeki Mahdi Bogor",
+    "author": "Khafidlotun Muslikhah",
+    "link": "detail.jsp?id=41978&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1287"
+  },
+  {
+    "title": "Pengembangan layanan web sementara suara otomatis untuk sistem pengenal suara otomatis bahasa Indonesia",
+    "author": "Elsa Angraini Darwin",
+    "link": "detail.jsp?id=41929&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1244"
+  },
+  {
+    "title": "Pengembangan leksikon sentimen berbahasa Indonesia dengan menggunakan data KBBI dan microblog",
+    "author": "Muhammad Rizki Aulia",
+    "link": "detail.jsp?id=41957&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1266"
+  },
+  {
+    "title": "Pengembangan pedagogical agent dengan menggunakan konsep gamification pada moodle learning management system",
+    "author": "Andika Yudha Otomo",
+    "link": "detail.jsp?id=42142&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1303"
+  },
+  {
+    "title": "Pengembangan prottotipe application layer access control dengan menggunakan metode deep packet inspection",
+    "author": "Harish Muhammad Nazief",
+    "link": "detail.jsp?id=41928&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1237"
+  },
+  {
+    "title": "Pengembangan sistem identifikasi bahasa Indonesia, Jawa, Minang dan Sunda pada twitter",
+    "author": "Puji Martadinata",
+    "link": "detail.jsp?id=41969&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1282"
+  },
+  {
+    "title": "Pengembangan sistem tanya-jawab Indonesia-Inggris dengan pengenalan pola kalimat tanya bahasa Indonesia secara umum menggunakan openephyra",
+    "author": "Rahmat Hidayah SB",
+    "link": "detail.jsp?id=41983&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1289"
+  },
+  {
+    "title": "Pengembangan web service dan interface pada wicara untuk keperluan sphinx training",
+    "author": "Rizky Ardiansyah",
+    "link": "detail.jsp?id=41938&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1242"
+  },
+  {
+    "title": "Penghitungan indeks PAR (Peer Assessment Rating) pada citra model, gigi 2D untuk komponen penlian ",
+    "author": "Rizal Bahriawan",
+    "link": "detail.jsp?id=41948&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1257"
+  },
+  {
+    "title": "Perancangan instrumen untuk menilai aspek usability dari online project management tool berbasis web: studi kasus web glasscubes",
+    "author": "Muhammad Iqbal",
+    "link": "detail.jsp?id=41986&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1292"
+  },
+  {
+    "title": "Perancangan sisem pengamanan ijazah berbasiskan kriptografi dan qr code",
+    "author": "Afrishal Priyandhana",
+    "link": "detail.jsp?id=41937&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1251"
+  },
+  {
+    "title": "Perbandingan metode vertical scaling dan horizontal scaling dengan teknik sharding untuk meningkatkan performa query pada basis data relasional",
+    "author": "Nanda Firdaus",
+    "link": "detail.jsp?id=41947&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1256"
+  },
+  {
+    "title": "Perbandingan performa ORM tools berbasis java: studi kasus hibernate dan activejdbc",
+    "author": "Wira Pramudy",
+    "link": "detail.jsp?id=41953&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1262"
+  },
+  {
+    "title": "Perbandingan performa sistem basis data nosql terdistribusi master-master dan marter-slave menggunakan COUCHDB",
+    "author": "Mohammad Fajarrizky Abidin",
+    "link": "detail.jsp?id=41980&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1278"
+  },
+  {
+    "title": "Perhitungan indeks PAR (Peer Assessment Rating) pada citra model gigi 2D untuk komponen garis median da segmentasi gigi pada citra permukaan oklusal",
+    "author": "Hanif Arief Wisesa",
+    "link": "detail.jsp?id=41951&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1260"
+  },
+  {
+    "title": "Protokol pertukaran kunci diffie-hellman tripartite yang memanfaatkan weil pairing dan implementasinya dengan menggunakan bahasa pemrograman python",
+    "author": "Anang Ferdi Kusuma",
+    "link": "detail.jsp?id=41924&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1235"
+  },
+  {
+    "title": "Rendering efek refleksi pergerakan permukaan, serta gelombang air laut lepas secara real-time pada perangkat mobile",
+    "author": "Fajar Setyo Nugroho",
+    "link": "detail.jsp?id=41950&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1259"
+  },
+  {
+    "title": "SIMPLENLGMULTI: Versi adaptasi simplemnlg, surface realiser untuk pendukung pembangkitan teks berbahasa Indonesia dan penggunaannya secara multilingual",
+    "author": "Erryan Sazany",
+    "link": "detail.jsp?id=41971&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1285"
+  },
+  {
+    "title": "Segmentasi kata aksara jawa",
+    "author": "Ardhian Prabantoro",
+    "link": "detail.jsp?id=41979&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1286"
+  },
+  {
+    "title": "Sistem ekstraksi konten dokumen web seragam dengan pendekatan frequent pattern mining",
+    "author": "Indra Eka Prasetya",
+    "link": "detail.jsp?id=41988&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1294"
+  },
+  {
+    "title": "Sistem pembangkit puisi otomatis berdasarkan grammar dan semantik dengan menggunakan chart generation",
+    "author": "Berty Chrismartin Lumban Tobing",
+    "link": "detail.jsp?id=41974&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1279"
+  },
+  {
+    "title": "Usability testing dan rekomendasi pengembangan student centered e-learning environment Fakultas Ilmu Komputer Universitas Indonesia",
+    "author": "Inas Sofiyah Junus",
+    "link": "detail.jsp?id=41964&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1273"
+  },
+  {
+    "title": "Weighted ensemble clustering dengan menggunakan self-organizing maps",
+    "author": "Muhammad Arrasy Rahman",
+    "link": "detail.jsp?id=42472&lokasi=lokal",
+    "year": 2014,
+    "call_number": "SK-1306"
   },
   {
     "title": "Algoritma load balance sederhana pada access point jaringan nirkabel IEEE 802.11G",
@@ -161,7 +1981,7 @@
     "call_number": "SK-1106"
   },
   {
-    "title": "Analisis kualitas usr experience pada responsive web design dalam aspek informatif",
+    "title": "Analisis kualitas user experience pada responsive web design dalam aspek informatif",
     "author": "RR. Devita Mira Lestari",
     "link": "detail.jsp?id=40827&lokasi=lokal",
     "year": 2013,
@@ -672,7 +2492,7 @@
     "call_number": "SK-1197"
   },
   {
-    "title": "Pengembangan sistem telehealth pertumbuhan janin (Terrain) berbasiskan deteksi pada citra kepala janin ultrasonografi dua dimensi",
+    "title": "Pengembangan sistem telehealth pertumbuhan janin (Terrain) berbasiskan deteksi elips pada citra kepala janin ultrasonografi dua dimensi",
     "author": "Roberth Rahmatullah",
     "link": "detail.jsp?id=41099&lokasi=lokal",
     "year": 2013,
@@ -686,7 +2506,7 @@
     "call_number": "SK-1162"
   },
   {
-    "title": "Penghitungan indeks PAR (peer assessment rating) pada citra model gigi 2D untuk koponen penilaian jarak gigit, gigitan terbuka, dan segmentasi gigi pada model gigi terbuka",
+    "title": "Penghitungan indeks PAR (peer assessment rating) pada citra model gigi 2D untuk komponen penilaian jarak gigit, gigitan terbuka, dan segmentasi gigi pada model gigi terbuka",
     "author": "Muhammad Febrian Rachmadi",
     "link": "detail.jsp?id=41356&lokasi=lokal",
     "year": 2013,
@@ -771,7 +2591,7 @@
   },
   {
     "title": "Simulasi byzabtine generals problem di sequence diagram dengan menggunakan ABS (Abstract behavioral specification)",
-    "author": "Nur Ululasman",
+    "author": "Nur Ulul Asman",
     "link": "detail.jsp?id=41097&lokasi=lokal",
     "year": 2013,
     "call_number": "SK-1217"
@@ -813,7 +2633,7 @@
   },
   {
     "title": "Analisa kinerja address resolution protocol spoofing",
-    "author": "Teofilus G.S.",
+    "author": "Teofilus Gabe Sidauruk",
     "link": "detail.jsp?id=37703&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1069"
@@ -890,7 +2710,7 @@
   },
   {
     "title": "Analisis fungsionalitas modul sales force automation dan service automation pada aplikasi customer relationship management untuk destination management system: studi kasus XYZ.com",
-    "author": "Putri Khusnus Khotimah",
+    "author": "Putri Khusnul Khotimah",
     "link": "detail.jsp?id=37676&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1042"
@@ -995,7 +2815,7 @@
   },
   {
     "title": "Analisis pengaruh kompresi suara menggunakan speex terhadap akurasi hasil pengenalan suara menggunakan sistem pengenal suara otomatis bahasa indonesia",
-    "author": "Adriani S. Zenitha",
+    "author": "Adriani Sarastasya Zenitha",
     "link": "detail.jsp?id=37709&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1053"
@@ -1078,7 +2898,7 @@
     "call_number": "SK-1071"
   },
   {
-    "title": "Aplikasi teori sinyal pada e-commerce marketing channel: pengaruh persepsi kualitas website universitas terhadap persepsi kualitas pendidikan dan intensi pendaftyaran universitas ",
+    "title": "Aplikasi teori sinyal pada e-commerce marketing channel: pengaruh persepsi kualitas website universitas terhadap persepsi kualitas pendidikan dan intensi pendaftaran universitas ",
     "author": "Fanny Rofalina",
     "link": "detail.jsp?id=37032&lokasi=lokal",
     "year": 2012,
@@ -1111,6 +2931,20 @@
     "link": "detail.jsp?id=34983&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-990"
+  },
+  {
+    "title": "Evaluasi dan pemeringkatan situs web e-government pemerintah daerah di indonesia",
+    "author": "Dori Gusvawijaya",
+    "link": "detail.jsp?id=37801&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1091"
+  },
+  {
+    "title": "Formalisasi komunikasi layanan web menggunakan hol dan unity",
+    "author": "Ahmadi Agra",
+    "link": "detail.jsp?id=41642&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1226"
   },
   {
     "title": "Identifikasi alat musik tradisional indonesia dengan memanfaatkan fitur mel-frequnecy cepstral coefficients (MFCC) pada musik poliponik",
@@ -1155,7 +2989,7 @@
     "call_number": "SK-1074"
   },
   {
-    "title": "Implementasi algoritma adaboost untuk peningkatan akurasi prediksi model dengan menggunakan algoritma C4.5 sebagai weak leaner",
+    "title": "Implementasi algoritma adaboost untuk peningkatan akurasi prediksi model dengan menggunakan algoritma C4.5 sebagai weaklearner",
     "author": "Tio  Pramayudi",
     "link": "detail.jsp?id=37698&lokasi=lokal",
     "year": 2012,
@@ -1169,8 +3003,8 @@
     "call_number": "SK-1087"
   },
   {
-    "title": "Implementasi algoritma pemrosesan gambar dan GLVQ pada parrot AR.DRONE untuk menjejaki sebuah objek di lantai mengunakan kamera bawah",
-    "author": "M. Nanda Kurniawan",
+    "title": "Implementasi algoritma pemrosesan gambar dan GLVQ pada parrot AR.DRONE untuk menjejaki sebuah objek di lantai menggunakan kamera bawah",
+    "author": "Muhammad Nanda Kurniawan",
     "link": "detail.jsp?id=37706&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1072"
@@ -1295,7 +3129,7 @@
     "call_number": "SK-1067"
   },
   {
-    "title": "Pembentukan behavior tree dari representasi semantic software requirement dalam SOU-KIF",
+    "title": "Pembentukan behavior tree dari representasi semantik software requirement dalam SOU-KIF",
     "author": "Adani Aristy",
     "link": "detail.jsp?id=37695&lokasi=lokal",
     "year": 2012,
@@ -1316,7 +3150,7 @@
     "call_number": "SK-1048"
   },
   {
-    "title": "Pencocokan citra panorama yang ditajamkan menggunakan metode lailin",
+    "title": "Pencocokan citra dental dengan citra panorama yang ditajamkan menggunakan metode lailin",
     "author": "Topan Bayu Kusuma",
     "link": "detail.jsp?id=34995&lokasi=lokal",
     "year": 2012,
@@ -1330,7 +3164,7 @@
     "call_number": "SK-1086"
   },
   {
-    "title": "Pendekatan teknik Bag of features dengan kernel dimension education pada permasalahan klasifikasi citra",
+    "title": "Pendekatan teknik Bag of features dengan kernel dimension reducation pada permasalahan klasifikasi citra",
     "author": "Silvia Winatan",
     "link": "detail.jsp?id=34993&lokasi=lokal",
     "year": 2012,
@@ -1344,7 +3178,7 @@
     "call_number": "SK-1124"
   },
   {
-    "title": "Penelitian dan pengembangan prototipe sistem point of sale berbasis web sebagai bagian dari Enterprise Resource Planning (ERP): Studi kasus Usaha Mikro Kecil Mengengah (UMKM)",
+    "title": "Penelitian dan pengembangan prototipe sistem point of sale berbasis web sebagai bagian dari Enterprise Resource Planning (ERP): Studi kasus Usaha Mikro Kecil Menengah (UMKM)",
     "author": "Ruth Magdalena",
     "link": "detail.jsp?id=37660&lokasi=lokal",
     "year": 2012,
@@ -1377,6 +3211,13 @@
     "link": "detail.jsp?id=35526&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1004"
+  },
+  {
+    "title": "Pengembangan aplikasi matlab client dan server berbasis messaging dengan rabbitmq",
+    "author": "Fahri Nurul Hidayat",
+    "link": "detail.jsp?id=41815&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1229"
   },
   {
     "title": "Pengembangan content management system (CMS) e-commerce dengan teknik search engine optimization (SEO) untuk mengoptimalkan visibilitas toko online pada hasil penelusuran  google",
@@ -1442,18 +3283,18 @@
     "call_number": "SK-1076"
   },
   {
-    "title": "Pengembangan prototipe sistem transkripsi berbasis web secara crowdsourcing dengan penerapan prinsip human computer interaction",
-    "author": "Maya Fitria",
-    "link": "detail.jsp?id=37803&lokasi=lokal",
-    "year": 2012,
-    "call_number": "SK-1094"
-  },
-  {
-    "title": "Pengembangan prototype perangkat lunak enviar dalam virtualisasi informasi wireless sensor network pada aplikasi demeter dengan representasi augmented reality",
+    "title": "Pengembangan prototipe perangkat lunak enviar dalam virtualisasi informasi wireless sensor network pada aplikasi demeter dengan representasi augmented reality",
     "author": "Enggar Baskoro",
     "link": "detail.jsp?id=37699&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1064"
+  },
+  {
+    "title": "Pengembangan prototype sistem transkripsi berbasis web secara crowdsourcing dengan penerapan prinsip human computer interaction",
+    "author": "Maya Fitria",
+    "link": "detail.jsp?id=37803&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1094"
   },
   {
     "title": "Pengembangan sistem pengenalan suara bahasa Indonesia untuk percakapan spontan",
@@ -1463,7 +3304,7 @@
     "call_number": "SK-1056"
   },
   {
-    "title": "Pengembangan use case diagram generator dari software equirement specification dalam bahasa indonesia dengan menggunakan analisis semantik",
+    "title": "Pengembangan use case diagram generator dari software requirement specification dalam bahasa indonesia dengan menggunakan analisis semantik",
     "author": "Latifaah",
     "link": "detail.jsp?id=35258&lokasi=lokal",
     "year": 2012,
@@ -1471,7 +3312,7 @@
   },
   {
     "title": "Pengkajian kinerja algoritma pendekodean pada sistem pengenalan suara otomatis bahasa indonesia",
-    "author": "Angga Aditya",
+    "author": "Angga Aditya Putra",
     "link": "detail.jsp?id=37799&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1088"
@@ -1498,11 +3339,18 @@
     "call_number": "SK-1023"
   },
   {
-    "title": "Perbaikan BT2SAL translator untuk integrasi model checker dengan trace animator pada paradigm behavior engineering",
+    "title": "Perbaikan BT2SAL translator untuk integrasi model checker dengan trace animator pada paradigma behavior engineering",
     "author": "Ardi",
     "link": "detail.jsp?id=37716&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1081"
+  },
+  {
+    "title": "Perbandinagn fuzzy inference system mamdani dan fuzzy inference system sugeno orde nol pada penentuan jurusan di Universitas Indonesia berdasarkan kompetensi: studi kasus siswa SMAN I Purworejo",
+    "author": "Ardian Wahyu Yusufi",
+    "link": "detail.jsp?id=41563&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1225"
   },
   {
     "title": "Perbandingan algoritma klasifikasi jaringan syaraf tiruan dalam pendeteksian penyakit arrhythmia",
@@ -1519,14 +3367,14 @@
     "call_number": "SK-1079"
   },
   {
-    "title": "Perbandingan implementasi akksi individu umpan panjang dan umpan pendek pada autonomous robot soccer",
+    "title": "Perbandingan implementasi aksi individu umpan panjang dan umpan pendek pada autonomous robot soccer",
     "author": "Sony Wirawan",
     "link": "detail.jsp?id=37802&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1089"
   },
   {
-    "title": "Perbandingan troughput IPV4, IPV6 dan IPV6 dengan tuneling pada jaringan dengan ukuran MTU 1280 dan 1500 byte",
+    "title": "Perbandingan troughput IPV4, IPV6 dan IPV6 dengan tunneling pada jaringan dengan ukuran MTU 1280 dan 1500 byte",
     "author": "A. Fakhrul Arrozi",
     "link": "detail.jsp?id=35246&lokasi=lokal",
     "year": 2012,
@@ -1552,6 +3400,13 @@
     "link": "detail.jsp?id=37717&lokasi=lokal",
     "year": 2012,
     "call_number": "SK-1082"
+  },
+  {
+    "title": "Rancangan dan implementasi jam tersinkronisasi menggunakan protokol ZIGBEE diatas launchpad embedded system",
+    "author": "Nisrina Rahmah",
+    "link": "detail.jsp?id=41923&lokasi=lokal",
+    "year": 2012,
+    "call_number": "SK-1234"
   },
   {
     "title": "Rekonstruksi permukaan tiga dimensi dengan pendekatan visi stereo",
@@ -1716,7 +3571,7 @@
   },
   {
     "title": "Analisis perbandingan clustering data ekspresi gen yang terintegrasi dengan menggunakan metdoe data consolidation dan transformasi kernel  ",
-    "author": "Fabian",
+    "author": "Fabian Sulaiman",
     "link": "detail.jsp?id=34162&lokasi=lokal",
     "year": 2011,
     "call_number": "SK-909"
@@ -1779,7 +3634,7 @@
   },
   {
     "title": "Desain dan implementasi aplikasi matlab client pada android",
-    "author": "Chrisma Andhika D.H.",
+    "author": "Chrisma Andhika D.h. Manalu",
     "link": "detail.jsp?id=34286&lokasi=lokal",
     "year": 2011,
     "call_number": "SK-946"
@@ -1799,7 +3654,7 @@
     "call_number": "SK-972"
   },
   {
-    "title": "Desain dan implementasi matlab server berbasiskanservice-oriented architecture",
+    "title": "Desain dan implementasi matlab server berbasiskan service-oriented architecture",
     "author": "Deddy Hermawan",
     "link": "detail.jsp?id=34176&lokasi=lokal",
     "year": 2011,
@@ -1890,7 +3745,7 @@
     "call_number": "SK-968"
   },
   {
-    "title": "Implementasi algoritma neural networkfeedforward dalam FPGA",
+    "title": "Implementasi algoritma neural network feedforward dalam FPGA",
     "author": "Aji Roland Putra",
     "link": "detail.jsp?id=34400&lokasi=lokal",
     "year": 2011,
@@ -1918,7 +3773,7 @@
     "call_number": "SK-965"
   },
   {
-    "title": "Implementasi dan analisis algprtima aproksimasi untuk pairwise testing dan perbandingannya dengan algoritma brute force",
+    "title": "Implementasi dan analisis algoritma aproksimasi untuk pairwise testing dan perbandingannya dengan algoritma brute force",
     "author": "Merryl Frances Nathanie Meka",
     "link": "detail.jsp?id=34283&lokasi=lokal",
     "year": 2011,
@@ -2094,7 +3949,7 @@
   },
   {
     "title": "Pengembangan prototype piranti lunak pada sistem wireless sensor network untuk aplikasi smart farm",
-    "author": "Glenn Mohammad",
+    "author": "Glenn Mohammad Dwiyatcita",
     "link": "detail.jsp?id=34159&lokasi=lokal",
     "year": 2011,
     "call_number": "SK-908"
@@ -2115,7 +3970,7 @@
   },
   {
     "title": "Peningkatan kinerja sistem inferensi kesukuan pada profil DNA manusia menggunakan teori informasi",
-    "author": "Erwin Nugraha Bayu Aji",
+    "author": "Erwin Nugraha Bayuaji",
     "link": "detail.jsp?id=34104&lokasi=lokal",
     "year": 2011,
     "call_number": "SK-901"
@@ -2191,7 +4046,7 @@
     "call_number": "SK-1013"
   },
   {
-    "title": "Rancangan penerapan audit sistem informasi dengan teknik continuous auditing sebagai sarana evaluasi fungsionalitas sistem informasi berbasis web studi kasus: sistem informasi akademik next generation Universitas Indonesia",
+    "title": "Rancangan penerapan audit sistem informasi dengan teknik continuous auditing sebagai sarana evaluasi fungsionalitas sistem informasi berbasis web studi kasus: sistem informasi akademis next- generation Universitas Indonesia",
     "author": "Muhammad Fitriansyah",
     "link": "detail.jsp?id=34337&lokasi=lokal",
     "year": 2011,
@@ -2276,7 +4131,7 @@
   },
   {
     "title": "Analisa situs E-tourism Indonesia: studi terhadap persebaran geografis pengklasifikasian situs serta pemafaatan fungsi dan fitur",
-    "author": "Ahmad Murthado",
+    "author": "Ahmad Murtadho",
     "link": "detail.jsp?id=33139&lokasi=lokal",
     "year": 2010,
     "call_number": "SK-889"
@@ -2444,7 +4299,7 @@
   },
   {
     "title": "Desain dan implementasi portal basisdata tanaman obat Indonesia sebagai penerapan knowledge management",
-    "author": "Marjuki Rahmat",
+    "author": "Marjuqi Rahmat",
     "link": "detail.jsp?id=34647&lokasi=lokal",
     "year": 2010,
     "call_number": "SK-988"
@@ -2773,7 +4628,7 @@
   },
   {
     "title": "Penggunaan teknologi stereoscopy untuk visualisasi data",
-    "author": "Abe Mitsuteru",
+    "author": "Abe Mitsu Teru",
     "link": "detail.jsp?id=33181&lokasi=lokal",
     "year": 2010,
     "call_number": "SK-897"
@@ -3444,7 +5299,7 @@
     "call_number": "SK-739"
   },
   {
-    "title": "Modifikasi particle swarm optimization untuk pencarian banyak sumber asap dengan visualisasi/ Aditya Nugraha",
+    "title": "Modifikasi particle swarm optimization untuk pencarian banyak sumber asap dengan visualisasi",
     "author": "Aditya Nugraha",
     "link": "detail.jsp?id=25029&lokasi=lokal",
     "year": 2008,
@@ -4208,7 +6063,7 @@
   },
   {
     "title": "Implementasi stax api versi 1.0 pada parser apache xerces-J-2-6.2/ Afrisal Akmal",
-    "author": "Akmal, Afrisal",
+    "author": "Afrisal Akmal,",
     "link": "detail.jsp?id=8919&lokasi=lokal",
     "year": 2005,
     "call_number": "SK-0589"
@@ -4229,7 +6084,7 @@
   },
   {
     "title": "Metode pollard RHO dan aplikasinya pada penyelesaian IFP (Integer factorization problem) dan ECDLP (Elliptic curve discrete logarithm problem)/ Toni Sutomo",
-    "author": "Sutomo, Toni",
+    "author": "Toni Sutomo",
     "link": "detail.jsp?id=8928&lokasi=lokal",
     "year": 2005,
     "call_number": "SK-0593"
@@ -4278,7 +6133,7 @@
   },
   {
     "title": "Penerapan teknik N-Term indexing (INT) pada pemilihan koleksi dalam distributed information retrieval system/ Husnul Rizka Mubarikah",
-    "author": "Mubarikah, Husnul Rizka",
+    "author": "Husnul Rizka Mubarikah",
     "link": "detail.jsp?id=8769&lokasi=lokal",
     "year": 2005,
     "call_number": "SK-0585"
@@ -4753,8 +6608,8 @@
     "call_number": "SK-0499"
   },
   {
-    "title": "Eksposisi metode adler-comppersmith-Hassner (ACH) untuk membentuk encoder pada Run-Lenght Limited (RLL) Constrained System/ Agus Syawal Yudhistira",
-    "author": "Yudhistira, Agus Syawal",
+    "title": "Eksposisi metode adler-comppersmith-Hassner (ACH) untuk membentuk encoder pada Run-Lenght Limited (RLL) Constrained System",
+    "author": "Agus Syawal Yudhistira",
     "link": "detail.jsp?id=4680&lokasi=lokal",
     "year": 2002,
     "call_number": "SK-0512"
@@ -4992,7 +6847,7 @@
   },
   {
     "title": "Studi kasus penerapan aspect-oriented programming (AOP) dalam menangani cross-cutting concerns pada programming library penggambaran  diagram statistik: chart2d/ Rio Rinaldi",
-    "author": "Rinaldi, Rio",
+    "author": "Rio Rinaldi",
     "link": "detail.jsp?id=4681&lokasi=lokal",
     "year": 2002,
     "call_number": "SK-0513"
@@ -5684,13 +7539,6 @@
     "call_number": "SK-0365"
   },
   {
-    "title": "Penerapan metode least square dalam persoalan pencocokan data dan analisa trend-residu medan gravitas/ Lamyarni Ibrahim",
-    "author": "Ibrahim, Lamyarni",
-    "link": "detail.jsp?id=10477&lokasi=lokal",
-    "year": 1998,
-    "call_number": "SK-0041"
-  },
-  {
     "title": "Pengembangan jaringan syaraf tiruan berdasarkan transformasi karhunen-loeve untuk pengenalan citra tumor kulit/ Mayasari Tyas Palupi",
     "author": "Palupi, Tyas Mayasari",
     "link": "detail.jsp?id=4558&lokasi=lokal",
@@ -5922,8 +7770,8 @@
     "call_number": "SK-0353"
   },
   {
-    "title": "Pemilihan strategi dan algoritme pemampatan data teks untuk kamus besar bahasa Indonesia elektronik/Ian Aditya Agus",
-    "author": "Agus, Ian Aditya",
+    "title": "Pemilihan strategi dan algoritme pemampatan data teks untuk kamus besar bahasa Indonesia elektronik",
+    "author": "Ian Aditya Agus",
     "link": "detail.jsp?id=4529&lokasi=lokal",
     "year": 1997,
     "call_number": "SK-0369"
@@ -5971,8 +7819,8 @@
     "call_number": "SK-0349"
   },
   {
-    "title": "Sistem pendukung administrasi akademik berbasis lotus notes/ Agus Yudhy Priyanto",
-    "author": "Priyanto, Agus Yudhy",
+    "title": "Sistem pendukung administrasi akademik berbasis lotus notes",
+    "author": "Agus Yudhy Priyanto",
     "link": "detail.jsp?id=7445&lokasi=lokal",
     "year": 1997,
     "call_number": "SK-0356"
@@ -6398,13 +8246,6 @@
     "call_number": "SK-0275"
   },
   {
-    "title": "Remote log-on untuk komputer MV/8000/ Irwan Margono",
-    "author": "Margono, Irwan",
-    "link": "detail.jsp?id=10526&lokasi=lokal",
-    "year": 1994,
-    "call_number": "SK-0091"
-  },
-  {
     "title": "SIMANTAP: Simulator Jaringan Neural Artmap/Sius Wibisono",
     "author": "Wibisono, Sius",
     "link": "detail.jsp?id=4439&lokasi=lokal",
@@ -6552,8 +8393,8 @@
     "call_number": "SK-0255"
   },
   {
-    "title": "PINOR: Piranti pelaksana normalisasi basis data relasional/ Sri Hastuti Ayuningsih",
-    "author": "Ayuningsih, Sri Hastuti",
+    "title": "PINOR: Piranti pelaksana normalisasi basis data relasional",
+    "author": "Sri Hastuti Ayuningsih",
     "link": "detail.jsp?id=4597&lokasi=lokal",
     "year": 1992,
     "call_number": "SK-0426"
@@ -6678,25 +8519,11 @@
     "call_number": "SK-0179"
   },
   {
-    "title": "Penerapan teknik maksimum entropy untuk pemrosesan sinyal EEG/ Agus Maulana",
-    "author": "Maulana, Agus",
-    "link": "detail.jsp?id=10600&lokasi=lokal",
-    "year": 1991,
-    "call_number": "SK-0175"
-  },
-  {
     "title": "Pengenalan pola karakter secara optis pada kelompok huruf besar cetak berdasarkan metode pengenalan sifat fisik karakter ",
     "author": "Yuanita Rohali",
     "link": "detail.jsp?id=4395&lokasi=lokal",
     "year": 1991,
     "call_number": "SK-0180"
-  },
-  {
-    "title": "Penyambungan citra digital (mosaicking) dengan komputer mikro/ Muhammaed Syam",
-    "author": "Syam, Muhammed",
-    "link": "detail.jsp?id=10603&lokasi=lokal",
-    "year": 1991,
-    "call_number": "SK-0178"
   },
   {
     "title": "Physigs: sebuah perangkat ajar cerdas untuk belajar hukum Newston tentang gerang",
@@ -6755,144 +8582,11 @@
     "call_number": "SK-0213"
   },
   {
-    "title": "Analisa plat penerus dengan cara panel tertentu/ Udayana Wirya",
-    "author": "Wirya, Udayana",
-    "link": "detail.jsp?id=10562&lokasi=lokal",
-    "year": 1990,
-    "call_number": "SK-0126"
-  },
-  {
-    "title": "Dbserve: sebuah database server pada jaringan komputer berbasis pesan/ Frenky Jonathan Palit",
-    "author": "Palit, Frenky Jonathan",
-    "link": "detail.jsp?id=10598&lokasi=lokal",
-    "year": 1990,
-    "call_number": "SK-0173"
-  },
-  {
-    "title": "Determinan matrik 5-diagonal toeplitz dan kaitannya dengan polinomial chebyshev jenis kedua/ Benny Nugrahadi",
-    "author": "Nugrahadi, Benny",
-    "link": "detail.jsp?id=10599&lokasi=lokal",
-    "year": 1990,
-    "call_number": "SK-0174"
-  },
-  {
     "title": "Klasifikasi sidik jari otomatis dengan teknik pengenalan pola/ Abdul Hakim Ghanem",
     "author": "Ghanem, Abdul Hakim",
     "link": "detail.jsp?id=4398&lokasi=lokal",
     "year": 1990,
     "call_number": "SK-0184"
-  },
-  {
-    "title": "Perangkat lunak device driver amulex untuk sco-xenix/ Fanina",
-    "author": "Fanina",
-    "link": "detail.jsp?id=10604&lokasi=lokal",
-    "year": 1990,
-    "call_number": "SK-0176"
-  },
-  {
-    "title": "Simulasi numerik vertical seismic profiling dengan metode reflektivitas fuchs dan mueller/ Suwarno",
-    "author": "Suwarno",
-    "link": "detail.jsp?id=10607&lokasi=lokal",
-    "year": 1990,
-    "call_number": "SK-0155"
-  },
-  {
-    "title": "P-forum : Kalawarta pribadi pada komputer mikro/ Djony Tanuwidjaya",
-    "author": "Tanuwidjaja, Djony",
-    "link": "detail.jsp?id=15109&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0222"
-  },
-  {
-    "title": "P-forum: kalawarta pribadi pada komputer mikro/ Djony Tanuwijaya",
-    "author": "Tanuwidjaja, Djony",
-    "link": "detail.jsp?id=10631&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0210"
-  },
-  {
-    "title": "Pembuatan perakit silang Z80 sebagai alat bantu pengembangan program MPF I/ Tri Winarko",
-    "author": "Winarko, Tri",
-    "link": "detail.jsp?id=10635&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0217"
-  },
-  {
-    "title": "Pembuktian teorema dengan unit binary resolution/ Musanto Yudoyoko",
-    "author": "Yudoyoko, Mursanto",
-    "link": "detail.jsp?id=15101&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0186"
-  },
-  {
-    "title": "Pembuktian teorema propagate and divide pada logika proposisi/ Sjarifuddin Amin",
-    "author": "Amin, Sjarifuddin",
-    "link": "detail.jsp?id=10610&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0187"
-  },
-  {
-    "title": "Sistem praprosesor untuk emulasi terminal/ Asril R. Malasan",
-    "author": "Malasan, Asril R.",
-    "link": "detail.jsp?id=10597&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0172"
-  },
-  {
-    "title": "pe: penyunting layar model \"WS\" pada sistem operasin unix/ Pudja Unggul Kartiman",
-    "author": "Kartiman, Pudja Unggul",
-    "link": "detail.jsp?id=10630&lokasi=lokal",
-    "year": 1989,
-    "call_number": "SK-0211"
-  },
-  {
-    "title": "Analisa ekstraksi ciri tekstur dengan metode matriks ketergantungan ko-okurensi tingkat keabuan/ XYZQUO",
-    "author": "XYZQUO",
-    "link": "detail.jsp?id=10634&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0216"
-  },
-  {
-    "title": "Digitizing tablet suatu alat bantu komputer grafik/ Liem Goan an",
-    "author": "Goan An, Liem",
-    "link": "detail.jsp?id=10628&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0208"
-  },
-  {
-    "title": "Emulasi komputer risc II dengan prolog/ Risargati",
-    "author": "Risargati",
-    "link": "detail.jsp?id=10508&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0074"
-  },
-  {
-    "title": "Pembentukan tabel parsing grammar LR(k)/ Gator Herliyanto",
-    "author": "Herliyanto, Gatot",
-    "link": "detail.jsp?id=10475&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0039"
-  },
-  {
-    "title": "Pengembangan perangkat lunak antarmuka untuk mensimulasikan rancangan VLSI dalam format VHDL/ Sigit Arnanto",
-    "author": "Arnanto, Sigit",
-    "link": "detail.jsp?id=10532&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0097"
-  },
-  {
-    "title": "Pengembangan piranti pemeriksa kaidah rancang untuk perancangan very large scale integration circuit (VLSIC)/ Ridwan Rafael Chasspuri",
-    "author": "Chaspuri, Ridwan Rafael",
-    "link": "detail.jsp?id=10586&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0149"
-  },
-  {
-    "title": "Pengolahan citra digital dengan metode filter homomorphic/ Rusli Amril",
-    "author": "Amril, Rusli",
-    "link": "detail.jsp?id=15108&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0223"
   },
   {
     "title": "Penyelesaian masalah transient konduksi panas pada sebuah plat dengan metode elemen hingga/ Guntur Moh. Widjaja",
@@ -6902,445 +8596,11 @@
     "call_number": "SK-0042"
   },
   {
-    "title": "Penyusunan basis data untuk sistem ahli: minisasi aljabar boolean/ Johannes Filandow",
-    "author": "Filandow, Johannes",
-    "link": "detail.jsp?id=10627&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0207"
-  },
-  {
-    "title": "Perancangan rangkaian terpadu untuk deteksi posisi arah, dan kecepatan putaran motor/ Harum Hambartini",
-    "author": "Hambartini, Harum",
-    "link": "detail.jsp?id=15110&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0219"
-  },
-  {
-    "title": "Perancangan rangkaian terpadu untuk deteksi posisi, arah, dan kecepatan putaran motor",
-    "author": "Harum Hambartini",
-    "link": "detail.jsp?id=10579&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0142"
-  },
-  {
-    "title": "Perancangan sistem kendali berbantuan komputer/ Noordin Salim",
-    "author": "Salim, Noodin",
-    "link": "detail.jsp?id=10629&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Rancangan chip untuk antarmuka telex: fungsi antarmuka jaringan/ Suryaningrum Kartikawati",
-    "author": "Kartikawati, Suryaningrum",
-    "link": "detail.jsp?id=10537&lokasi=lokal",
-    "year": 1988,
-    "call_number": "SK-0101"
-  },
-  {
-    "title": "Aplikasi sistem basis data deduktif menggunakan prolog/ Nurwendo Haricahyadi",
-    "author": "Haricahyadi, Nurwendo",
-    "link": "detail.jsp?id=10449&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0012"
-  },
-  {
-    "title": "Beberapa metode summability dan perhitungan pada deret fourier/ Misfaruddin",
-    "author": "Misfaruddin",
-    "link": "detail.jsp?id=10596&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0167"
-  },
-  {
-    "title": "Drazin invers/ Eva Zulfa Nailufar",
-    "author": "Naifular, Eva Zulfa",
-    "link": "detail.jsp?id=10455&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0018"
-  },
-  {
-    "title": "Eksekusi paralel operator relasi SMBDR/ Manonton Butar-butar",
-    "author": "Butabutar, Manonton",
-    "link": "detail.jsp?id=10570&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-???"
-  },
-  {
     "title": "Flip-flop register dan unit memori/ Rosita",
     "author": "Rosita",
     "link": "detail.jsp?id=10457&lokasi=lokal",
     "year": 1987,
     "call_number": "SK-0020"
-  },
-  {
-    "title": "Godel numbering bagi  string graph dan program/ Ernastuti",
-    "author": "Ernastuti",
-    "link": "detail.jsp?id=10459&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0022"
-  },
-  {
-    "title": "Heuristic search sebagai alternatif pelacakan dan implementasinya dalam prolog untuk aplikasi theorea proving/ Syarif Abdat",
-    "author": "Abdat, Syarif",
-    "link": "detail.jsp?id=10460&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0023"
-  },
-  {
-    "title": "Interface I/O ser-paralel mikrokomputer apple II plus dengan instrumen mossbauer \"Promeda\"/ Prawito",
-    "author": "Prawito",
-    "link": "detail.jsp?id=10581&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0144"
-  },
-  {
-    "title": "Kumunikasi radip paket",
-    "author": "Nahari Mursid",
-    "link": "detail.jsp?id=10623&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0203"
-  },
-  {
-    "title": "MX/2: sistem ahli perancang rangkaian lojik dengan kemampuan grafis/ Hendro Wantoro",
-    "author": "Wantoro, Hendro",
-    "link": "detail.jsp?id=10507&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0073"
-  },
-  {
-    "title": "Mesin inferensi pada sistem pendukung pengambilan keputusan untuk pendidikan tinggi (SPPK-PT)",
-    "author": "Sutanto, Herry",
-    "link": "detail.jsp?id=10566&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0130"
-  },
-  {
-    "title": "Panampilan struktur data dinamis pada tingkt konseptual dengan bahasa C/ Zulhelfi",
-    "author": "zulhelfi",
-    "link": "detail.jsp?id=10588&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Parsing grammar LL(k)/ Ratna Iriani",
-    "author": "Iriani, Ratna",
-    "link": "detail.jsp?id=10476&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0038"
-  },
-  {
-    "title": "Penerapan fasilitas forum diskusi elektronis pada jaringan antar Universitas UNInet/ Reny Luswita",
-    "author": "Luswita, Reny",
-    "link": "detail.jsp?id=10547&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0111"
-  },
-  {
-    "title": "Pengembangan perangkat kompilasi VHDL (VHSIC Hardware description language) untuk rangkaian VLSI teknologi NMOS/ Rachma Dewi Bardijan",
-    "author": "Bardijan, Rachma Dewi",
-    "link": "detail.jsp?id=10633&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0212"
-  },
-  {
-    "title": "Pengembangan perangkat lunak FTA berbasis UUCP diatas lapisan Xodiac (X.25) pada AOS/VS/ Budi Wahyu Jati",
-    "author": "Jati, Budi Wahyu",
-    "link": "detail.jsp?id=10544&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0108"
-  },
-  {
-    "title": "Pengembangan perangkat lunak antarmuka antara jaringan telex dengan jaringan komputer/ Bareb Risanto",
-    "author": "Risanto, Bareb",
-    "link": "detail.jsp?id=10530&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0095"
-  },
-  {
-    "title": "Pengembangan perangkat lunak komunikasi daa UUCP pada sistem operasi AOS/VS",
-    "author": "Ira Hanggoro Maruta",
-    "link": "detail.jsp?id=10576&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Pengembangan pesan elektronis diatas lapisan X.25 pada sistem operasi AOS/VS/ Pratiwi Widjiastuti",
-    "author": "Widjiastuti",
-    "link": "detail.jsp?id=10545&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0109"
-  },
-  {
-    "title": "Pengembangan piranti penjaluran untuk rancangan elektronik mikro/ Widodo",
-    "author": "Widodo",
-    "link": "detail.jsp?id=10639&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0220"
-  },
-  {
-    "title": "Pengembangan sarana kemudahan perangkat-lunak di berbagai jenis komputer",
-    "author": "Liem Kin Tet",
-    "link": "detail.jsp?id=15104&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0202"
-  },
-  {
-    "title": "Pengembangan sistem penanganan pesan dengan bakuan X.400: penerapan MTA pada AOS/VS",
-    "author": "Tanto, Wignyo",
-    "link": "detail.jsp?id=10551&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0115"
-  },
-  {
-    "title": "Pengembangan sistem penanganan pesan dengan bakuan X.400: penerapan UA pada AOS/VS/ Susana Lilik W.",
-    "author": "Lilik W., Susana",
-    "link": "detail.jsp?id=10546&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0110"
-  },
-  {
-    "title": "Perancangan dan implementasi program kumunikasi untuk IBM PC/ Wahyu Catur Wibowo",
-    "author": "Wibowo, Wahyu Catur",
-    "link": "detail.jsp?id=10589&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Proses penelusuran eksekusi fakta di dalam interpreter portable prolog/ Edwin Djoko Sarwono",
-    "author": "Sarwono, Edwin Djoko",
-    "link": "detail.jsp?id=10489&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0050"
-  },
-  {
-    "title": "Stabilitas solusi elemen hingga dari time-dependent problem pada persamaan diferensial parsial diruang dimensi dua/ Frederik Moses Poyk",
-    "author": "Poyk, Frederik Moses",
-    "link": "detail.jsp?id=10496&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0057"
-  },
-  {
-    "title": "Transformasi grafik dimensi 3 pada layar dimensi 2/ Ronny Amir",
-    "author": "Amir, Ronny",
-    "link": "detail.jsp?id=10595&lokasi=lokal",
-    "year": 1987,
-    "call_number": "SK-0067"
-  },
-  {
-    "title": "Analisa algoritma travesal pada treaded binary tree/ Imron Wahyuni Z.",
-    "author": "Imran, Wahyuni Z.",
-    "link": "detail.jsp?id=10446&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0009"
-  },
-  {
-    "title": "Aplikasi teori group dalma penjualan dengan waktu minimal/ Artini Sukotjo",
-    "author": "Sukotjo, Artini",
-    "link": "detail.jsp?id=10450&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0013"
-  },
-  {
-    "title": "Arus maksimum pada jaringan transformasi/ Sri Rubiyati",
-    "author": "Rubiyanti, Sri",
-    "link": "detail.jsp?id=10451&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0014"
-  },
-  {
-    "title": "C-Soka: penggunaan bahasa tingkat tinggi dalam disain sistem operasi komputer mikro/ Handoko Dipo",
-    "author": "Dipo, Handoko",
-    "link": "detail.jsp?id=10617&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0195"
-  },
-  {
-    "title": "Evaluasi metode analisis jawaban atas pertanyaan terbuka untuk sistem ecal dan implementasinya/ Herry Sutanto",
-    "author": "Sutanto, Herry",
-    "link": "detail.jsp?id=10573&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0136"
-  },
-  {
-    "title": "Fasilitas pemindahan berkas pada sistem AOS/VS/ Benediktus Nugroho Budipriyanto",
-    "author": "Budipriyanto, Benediktus Nugroho",
-    "link": "detail.jsp?id=20364&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0133"
-  },
-  {
-    "title": "Fasilitas pemindahan berkas pada sistem operasi unix/ Ahmad Bambang",
-    "author": "Bambnag, Ahmad",
-    "link": "detail.jsp?id=10565&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Implementasi algoritma derajat minimal dengan quotient graph/ Eko Hadipriyono",
-    "author": "Hadipriyono, Eko",
-    "link": "detail.jsp?id=10580&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0143"
-  },
-  {
-    "title": "Implementasi pemindahan dana elektronis di Indonesia/ Johan Baharuddin",
-    "author": "Baharuddin, Johan",
-    "link": "detail.jsp?id=10619&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0197"
-  },
-  {
-    "title": "Integral polsson dan aplikasinya di dalam persoalan clirichlet dan personal newman/ Adrian Ausri",
-    "author": "Ausri, Adrian",
-    "link": "detail.jsp?id=10462&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0025"
-  },
-  {
-    "title": "Metode conjugate gradient dengan blok preconditioning chalesky tak lengkap/ Helmi Tang",
-    "author": "Tang, Helmi",
-    "link": "detail.jsp?id=10472&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0035"
-  },
-  {
-    "title": "Metode prediktor-korektor untuk penyelesaian persoalan syarat awal persamaan differensial biasa order baru/ Sulistyo Puspitodjati",
-    "author": "Puspitodjati, Sulistyo",
-    "link": "detail.jsp?id=10582&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0034"
-  },
-  {
-    "title": "Metode transformasi elementer tree untuk menghasilkan semua spanning-tree yang berbeda dari suatu graph-lengkap/ Rina Lestari",
-    "author": "Lestari, Rina",
-    "link": "detail.jsp?id=10473&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0036"
-  },
-  {
-    "title": "Penelitian eksperimental tentang korelasi pengaturan air pendingin dengan temperatur kerja motor otto V.C.R./ Asrin R. Haznam",
-    "author": "Haznam, Asrin R.",
-    "link": "detail.jsp?id=10594&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0162"
-  },
-  {
-    "title": "Penerapan metoda analisa komponen utama untuk reduksi kanal data dan perbaikan citra/ Nur Gunawan Sastranegara",
-    "author": "Sastranegara, Nur Gunawan",
-    "link": "detail.jsp?id=10538&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0102"
-  },
-  {
-    "title": "Penerapan paket komunikasi antar unix pada jaringan uninet tahap pertama/ Benny Somali",
-    "author": "Somali, Benny",
-    "link": "detail.jsp?id=10548&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0112"
-  },
-  {
-    "title": "Pengaruh pendidikan, usia nikah pertama dan pekerjaan sejak menikah pada ferlitas di DKI Jakarta/ Roshariani Rasjad",
-    "author": "Rasjad, Roshariani",
-    "link": "detail.jsp?id=10584&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0146"
-  },
-  {
-    "title": "Pengaturan arus lalu lintas minyak dengan pipa di terminal dumai/ Harry Patuan Panjaitan",
-    "author": "Panjaitan, Harry Patuan",
-    "link": "detail.jsp?id=10510&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0076"
-  },
-  {
-    "title": "Pengembangan akses basis data melalui jaringan telekomunikasi di Indonesia/ Melly Hidayat",
-    "author": "Hidayat, Melly",
-    "link": "detail.jsp?id=10621&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0199"
-  },
-  {
-    "title": "Pengembangan dan pemanfaatan secara terintegrasi  jasa-jasa dalam jaringan UI-NET/ Josep F.P. Luhukay ",
-    "author": "Antonius",
-    "link": "detail.jsp?id=10541&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0105"
-  },
-  {
-    "title": "Pengembangan lapisan-lapisan protokol osi di atas lapisan protokol X.25/ Martinus Tjia",
-    "author": "Tjia, Martinus",
-    "link": "detail.jsp?id=10620&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0198"
-  },
-  {
-    "title": "Pengembangan pelayanan kalawarta komputer/ Anak Agung Putri Ratna",
-    "author": "Ratna, Anak Agung Putri",
-    "link": "detail.jsp?id=10529&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0094"
-  },
-  {
-    "title": "Pengembangan penyunting grafis untuk perancangan very large scale integration circuit (VSLSIC)",
-    "author": "Dadang Gunawan",
-    "link": "detail.jsp?id=10622&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Pengembangan perangkat simulasi rangkaian listrik SPICE-26 pada komputer MC/8000",
-    "author": "Tonny Ismantara",
-    "link": "detail.jsp?id=15103&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0200"
-  },
-  {
-    "title": "Pengembangan perangkat simulasi rangkaian listrik spice-20 pada komputer MV/8000/ Tonny Ismantara",
-    "author": "Ismantara, Tonny",
-    "link": "detail.jsp?id=10540&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0104"
-  },
-  {
-    "title": "Penggunaan splines untuk perencanaan geometrik jalan raya/ Ricardo Muliano T.",
-    "author": "Muliano T, Ricardo",
-    "link": "detail.jsp?id=10517&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0080"
-  },
-  {
-    "title": "Perencanaan model terminal terminal terminal terpadu untuk bis dan kereta api: model stasiun Jatinegara/ Kabul Subiandono",
-    "author": "Subiandono, Kabul",
-    "link": "detail.jsp?id=10521&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0086"
-  },
-  {
-    "title": "Petunjuk teknis C-layan program pendukung perangkat lunak print server pada UI-Net/ Afwarman",
-    "author": "Afwarman",
-    "link": "detail.jsp?id=10616&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0194"
-  },
-  {
-    "title": "Rancangan antarmuka bagi interkoneksi jaringan telex dengan jaringan komputer/ Freddy Simanjuntak",
-    "author": "Simanjuntak, Freddy",
-    "link": "detail.jsp?id=10536&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0100"
-  },
-  {
-    "title": "Restorasi citra digital dengan metoda aljabar linier: perbandingan metoda dekomposisi nilai sigular dengan metoda proyeksi iteraktif/F.X. Nursalim Hadi",
-    "author": "Hadi, F.X. Nursalim",
-    "link": "detail.jsp?id=7512&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0228"
-  },
-  {
-    "title": "Sistem pengukur suhu instrumented fuel element (IFE) berdasarkan mikroprosesor/ I. Made Sudjana",
-    "author": "Sudjana, I Made",
-    "link": "detail.jsp?id=10493&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0055"
   },
   {
     "title": "Studi perbandingan antara komunikasi melalui satelit dan komunikasi melalui serat optik di Indonesia/ I. Gede Wikrama Putra",
@@ -7350,725 +8610,11 @@
     "call_number": "SK-0196"
   },
   {
-    "title": "Studi tentang hubungan pola seleksi dengan prestasi belajar mahasiswa di FMIPA-UI(Studi kasus untuk angkatan 80-84)/ Dian Lestari",
-    "author": "Lestari, Dian",
-    "link": "detail.jsp?id=10497&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0059"
-  },
-  {
-    "title": "Suatu tinjauan tentang problema - problema NP/ Iman Santoso",
-    "author": "Santoso, Iman",
-    "link": "detail.jsp?id=10502&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0064"
-  },
-  {
-    "title": "Verifikasi program Loop/ Bevina Debjwiandra Handari",
-    "author": "Handari, Bevina Debjwiandra",
-    "link": "detail.jsp?id=20323&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0068"
-  },
-  {
-    "title": "Verifikasi program rekursif/ Gatot Fatwanto H.",
-    "author": "Fatwanto H, Gatot",
-    "link": "detail.jsp?id=10585&lokasi=lokal",
-    "year": 1986,
-    "call_number": "SK-0148"
-  },
-  {
-    "title": "Algoritma QR",
-    "author": "Rustam, Zuherman",
-    "link": "detail.jsp?id=10443&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0006"
-  },
-  {
-    "title": "Algoritma QZ/ A. Atono",
-    "author": "Antono, A.",
-    "link": "detail.jsp?id=10608&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0154"
-  },
-  {
-    "title": "Algoritma perhitungan reciplocal dan modular bagi integer dan polinomial integer/ Diah K. Dwisaptarini",
-    "author": "Diah K, Dwisaptaini",
-    "link": "detail.jsp?id=10442&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0005"
-  },
-  {
-    "title": "Analisa perbandingan waktu mencari pada perekam data piringan untuk lokasi directory yang berbeda/ R. Poespawati",
-    "author": "Poespawati, R.",
-    "link": "detail.jsp?id=10614&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0191"
-  },
-  {
-    "title": "Aplikasi mikroprosesor 8085 untuk pengetahuan motor stepper/ Muhammadi",
-    "author": "Budianto, Erwin",
-    "link": "detail.jsp?id=10528&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0093"
-  },
-  {
-    "title": "Beberapa aspek persamaan integral nonlinear/ Hardyaningwati",
-    "author": "Hardyaningwati",
-    "link": "detail.jsp?id=10453&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0016"
-  },
-  {
-    "title": "Connectivity dalam matroid/ Bermadine Indriasmini",
-    "author": "Indriasmini, Bermadine",
-    "link": "detail.jsp?id=10454&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0017"
-  },
-  {
-    "title": "Desain dan pengembangan jaringan data base access di Indonesia/ Zul'azmi Sibuea",
-    "author": "Sibuea, Zul'Azmi",
-    "link": "detail.jsp?id=10615&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0193"
-  },
-  {
-    "title": "Eugenvalue dari graph dan multi-graph/ Chamili",
-    "author": "Chamili",
-    "link": "detail.jsp?id=10456&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0019"
-  },
-  {
-    "title": "Fungsi hypergeometric/ Indrati",
-    "author": "Indrati",
-    "link": "detail.jsp?id=10458&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0021"
-  },
-  {
-    "title": "Hubungan antara teori ukuran dan teori probabilites/ Indra Hadi",
-    "author": "Hadi, Indra",
-    "link": "detail.jsp?id=10461&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0024"
-  },
-  {
-    "title": "Implementasi protokol X.25 pada jaringan komunikasi data/ Jacks MP. Hutabarat",
-    "author": "Hutabarat, Jacks MP",
-    "link": "detail.jsp?id=10612&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0189"
-  },
-  {
-    "title": "Karakterisasi dari graph blok dan tiga bentuk perluasannya/ Muchsinah",
-    "author": "Muchsinah",
-    "link": "detail.jsp?id=10464&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0027"
-  },
-  {
-    "title": "Metode broyden untuk penyelesaian persamaan nonlinear/ Indrika Mia",
-    "author": "Indrika, Mia",
-    "link": "detail.jsp?id=10470&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0033"
-  },
-  {
-    "title": "Metode garis lurus untuk penyelesaian persamaan diferensial parsial/ Suwandi",
-    "author": "Suwandi",
-    "link": "detail.jsp?id=10474&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0037"
-  },
-  {
-    "title": "Pemanfaatan hot rolled sheet sebagai lapis permukaan konstruksi perkerasan lentur/ Batara Arifin",
-    "author": "Arifin, Batara",
-    "link": "detail.jsp?id=10524&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0089"
-  },
-  {
-    "title": "Penerapan erangkat kompilasi-silang modula-2 pada MV/8000/ Adhi Yuniarto L.Y.",
-    "author": "Yuniarto L.Y, Adhi",
-    "link": "detail.jsp?id=10535&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0099"
-  },
-  {
-    "title": "Penyelesaian masalah transient konduksi panas pada sebuah plat dengan metode elemen hingga/ Moh. Guntur Wijayanto",
-    "author": "Widjayanto, Moh. Guntur",
-    "link": "detail.jsp?id=10480&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0043"
-  },
-  {
-    "title": "Penyelesaian persamaan poisson dengan metoda finite difference dan multi-grid/ Heru Suhartanto",
-    "author": "Suhartanto, Heru",
-    "link": "detail.jsp?id=10591&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0159"
-  },
-  {
-    "title": "Perancangan sistem multiprocessor dengan struktur private and global memory",
-    "author": "Budiardjo, Eko Kuswardono",
-    "link": "detail.jsp?id=10564&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0128"
-  },
-  {
-    "title": "Perangkat lunak untuk penyelesaian analisa traffic assignment: studi kasus kota Ujung Pandang",
-    "author": "Deddy Arief",
-    "link": "detail.jsp?id=10518&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0083"
-  },
-  {
-    "title": "Perbandingan kemampuan fungsional dari lan dan PBX sebagai sarana komunikasi sistem otomatisasi kantor/ Jufrinov Tanjung",
-    "author": "Tanjung, Jufrinov",
-    "link": "detail.jsp?id=10505&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0071"
-  },
-  {
-    "title": "Perbandingan metode iterasi jacobl, gauss seidel dan successive over-relaxation daam penyelesaian  persamaan diferensial parsial type elliptik/ Daltur Lukas Redakasiang",
-    "author": "Rendakasing, Daltur Lukas",
-    "link": "detail.jsp?id=10481&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0044"
-  },
-  {
-    "title": "Perbedaan beberapa sifat tanah podsolik yang disawahkan dan tidak disawahkan di tiga tempat serta klasifikasinya menurut taksonomi tanah/ Dana Indra Sensuse",
-    "author": "Sensuse, Dana Indra",
-    "link": "detail.jsp?id=10590&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Perhitungan dosis radiasi lingkungan dengna metode monte carlo adjoint/ Jeniputri Ali",
-    "author": "Ali, Juniputri",
-    "link": "detail.jsp?id=10482&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0045"
-  },
-  {
-    "title": "Persamaan differensial parsial linear order dua tipe parabolik dan transformasi affine/ Dani Pradana K.",
-    "author": "Pradana K, Dani",
-    "link": "detail.jsp?id=10486&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0047"
-  },
-  {
-    "title": "Persoalan undeci doble pada psys correspondence problem (PCP)/ Rachmat Karyanda S.",
-    "author": "Karyanda S, Rachmat",
-    "link": "detail.jsp?id=10487&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0048"
-  },
-  {
-    "title": "Program dinamik/ Tarzan Basaruddin",
-    "author": "Basaruddin, Tarzan",
-    "link": "detail.jsp?id=10575&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0138"
-  },
-  {
-    "title": "Reaktif komputer menggunakan mikroprocessor MC 6802/ Syafedi",
-    "author": "Syafedi",
-    "link": "detail.jsp?id=15731&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0051"
-  },
-  {
-    "title": "Sarana laboratorium komputer mikro percobaan-percobaan lanjut/ Luki Dewayani",
-    "author": "Dewayani, Luki;  | Publisher: Jakarta: FT Elektro, 1985 | Call Number: SK-0190 sama NO. 0165",
-    "link": "detail.jsp?id=10613&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0190"
-  },
-  {
-    "title": "Sarana laboratorium komputer mikro: percobaan-percobaan dasar/ Riyeni Widya Rabain",
-    "author": "Rabain, Riyeni Widya",
-    "link": "detail.jsp?id=10609&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0192"
-  },
-  {
     "title": "Simulasi komputer steam balance sistem uap kilang LNG bontang dan aplikasinya dalam analisa kejadian surge/ Wigandi Kurniawan",
     "author": "Kurniawan, Wigandi",
     "link": "detail.jsp?id=10515&lokasi=lokal",
     "year": 1985,
     "call_number": "SK-???"
-  },
-  {
-    "title": "Studi model migrasi data seismik dengan pergeseran fasa tambah interpolasi/ Darwin Silalahi",
-    "author": "Silalahi, Darwin",
-    "link": "detail.jsp?id=20546&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0158"
-  },
-  {
-    "title": "Suatu tinjauan mengenai aplikasi struktur tree/ Usa Sutrisna",
-    "author": "Sutrisna, Usa",
-    "link": "detail.jsp?id=10498&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0060"
-  },
-  {
-    "title": "Suatu tinjauan mengenai optimalisasi bangun binary search/ Jullysava C. Aziz",
-    "author": "Aziz, Jullysava C.",
-    "link": "detail.jsp?id=10499&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0061"
-  },
-  {
-    "title": "Suatu tinjauan tentang masalah path terpendek/ R. Yugo K. Isal",
-    "author": "Isal, R. Yugo Kartono",
-    "link": "detail.jsp?id=10501&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0063"
-  },
-  {
-    "title": "Suatu tinjauan tentang subset fuzzy dan aplikasinya/ Romli",
-    "author": "Romli",
-    "link": "detail.jsp?id=10503&lokasi=lokal",
-    "year": 1985,
-    "call_number": "SK-0065"
-  },
-  {
-    "title": "Adaptive differential PCM coder untuk transmisi sinyal telepon/ Harmon",
-    "author": "Harmon",
-    "link": "detail.jsp?id=10539&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0103"
-  },
-  {
-    "title": "Algoritma cuthill dan beberapa variasinya/ Kartini Slamet",
-    "author": "Slamet, Kartini",
-    "link": "detail.jsp?id=10440&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0003"
-  },
-  {
-    "title": "Analisa pola angkutan tebu pada PD Tasikmadu XV (Persero)/ Djoni Widjanarko Kridarso",
-    "author": "Kridarso, Djoni Widjanarko",
-    "link": "detail.jsp?id=10438&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0001"
-  },
-  {
-    "title": "Analisis robot CS-111/ Machmudin Junus",
-    "author": "Junus, Machmudin",
-    "link": "detail.jsp?id=10572&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Aplikasi fungsi bessel dalam persoalan strum honvile/ Adi Kresno",
-    "author": "Kresno, Adi",
-    "link": "detail.jsp?id=10447&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0010"
-  },
-  {
-    "title": "Aplikasi gaji pegawai & pergudangan pada bidang perhotelan",
-    "author": "Ari Bintoro",
-    "link": "detail.jsp?id=10578&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0141"
-  },
-  {
-    "title": "Aplikasi mikrokomputer CBM untuk kalibrasi digital voltmeter/ Venny Zano",
-    "author": "Zano, Venny",
-    "link": "detail.jsp?id=10558&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0122"
-  },
-  {
-    "title": "Aplikasi paket switching untuk telekomunikasi internasional di Indonesia/ Marwan",
-    "author": "Marwan",
-    "link": "detail.jsp?id=10506&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0072"
-  },
-  {
-    "title": "Beberapa aspek dari deret fourier/ Benny Prabowosunu",
-    "author": "Prabonosunu, Benny",
-    "link": "detail.jsp?id=10452&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0015"
-  },
-  {
-    "title": "Implementasi operasi ekstraksi relasi pada sistem relasional/ Antonius Padua Hardhono",
-    "author": "Hardhoko, Antonius Padua",
-    "link": "detail.jsp?id=10567&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0131"
-  },
-  {
-    "title": "Inertial navigation system/ Sutjianto",
-    "author": "Sutjianto",
-    "link": "detail.jsp?id=10560&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0124"
-  },
-  {
-    "title": "Kemudahan akses dan pengawasan sumberdaya pada jaringan UI-NET/ Moch. Budiman Tamimi",
-    "author": "Tamimi, Moch Budiman",
-    "link": "detail.jsp?id=10611&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0188"
-  },
-  {
-    "title": "MIKAS: sebuah sistem pemindahan berkas pada jaringan lokal UI.NET/ Endang Ripmiatim",
-    "author": "Ripmiatin, Endang",
-    "link": "detail.jsp?id=10542&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0106"
-  },
-  {
-    "title": "MX/1 sistem ahli perancang  multiplekser/ Ismed D.S. Hartanto",
-    "author": "Hartanto, Ismed D.S",
-    "link": "detail.jsp?id=10637&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0221"
-  },
-  {
-    "title": "Penaksiran titik parameter dan keandalan untuk distribusi eksponensial dua parameter dengan penghampiran bayes/ Herman",
-    "author": "Herman",
-    "link": "detail.jsp?id=10574&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0137"
-  },
-  {
-    "title": "Penentuan ciri tekstur dengan metode NGLDM/ Jeffry A. Wattimena",
-    "author": "Wattimena, Jeffry A.",
-    "link": "detail.jsp?id=10549&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0113"
-  },
-  {
-    "title": "Pengolahan isyarat digital dengan MPF-1/ RM. Samik Ibrahim",
-    "author": "Ibrahim, R.M. Samik",
-    "link": "detail.jsp?id=10636&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0225"
-  },
-  {
-    "title": "Penyelesaian persamaan integral fredholm tak linier dengan metode beda hingga dan metode iterasi/ Widijanto Satyo Nugroho",
-    "author": "Nugroho, Widijanto Satyo",
-    "link": "detail.jsp?id=10568&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0132"
-  },
-  {
-    "title": "Perhitungan plat beton bertulang orthotropic dengan cara finite element",
-    "author": "Halim, Udayasuddhata",
-    "link": "detail.jsp?id=10522&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0087"
-  },
-  {
-    "title": "Perluasan aljabar dan perluasan transcedental dari suatu field/ Kiki Aryanti",
-    "author": "Aryanti, Kiki",
-    "link": "detail.jsp?id=10484&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0046"
-  },
-  {
-    "title": "Pusat pelayanan akademis ITB/ Saiful Basri Ridwan",
-    "author": "Ridwan, Saiful Basri",
-    "link": "detail.jsp?id=15114&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0226"
-  },
-  {
-    "title": "Radar homing rudal A.G.M./ Basudi Purwanto",
-    "author": "Purwanto, Basuki",
-    "link": "detail.jsp?id=10561&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0125"
-  },
-  {
-    "title": "Sarana laboratorium rancangan lojik: percobaan-percobaan dasar/ Erwin Ruswinartiek",
-    "author": "Ruswinartiek, Erwin",
-    "link": "detail.jsp?id=10523&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0088"
-  },
-  {
-    "title": "Sarana laboratorium rancangan lojik: percobaan-percobaan lanjut/ Lista Dewi S.",
-    "author": "Dewi S, Lista",
-    "link": "detail.jsp?id=10554&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0118"
-  },
-  {
-    "title": "Sistem kendali kecepatan dengan pengendali proposional, integral dan berivativ/ Waseso Segoro",
-    "author": "Segoro, Waseso",
-    "link": "detail.jsp?id=10525&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0090"
-  },
-  {
-    "title": "Sistem telemedika untuk kota metopolitan/ Rustaman",
-    "author": "Rustaman",
-    "link": "detail.jsp?id=10559&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0123"
-  },
-  {
-    "title": "Suatu aplikasi dari teorema residu pada integral dan deret/ Mulyono",
-    "author": "Mulyono",
-    "link": "detail.jsp?id=10592&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0160"
-  },
-  {
-    "title": "Suatu struktur data untuk sistem relasional/ Rostina Zainuddin",
-    "author": "Zainuddin, Rostina",
-    "link": "detail.jsp?id=10563&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0127"
-  },
-  {
-    "title": "Suatu tinjauan tentang context-tree grammar/ Bambang Redjeki Suryosumanto",
-    "author": "Suryosumanto,  Bambang Redjeki",
-    "link": "detail.jsp?id=10500&lokasi=lokal",
-    "year": 1984,
-    "call_number": "SK-0062"
-  },
-  {
-    "title": "Analisa obyektif medan angin dan penghitungan stream function di wilayah Indonesia dan sekitarnya/ Khalif",
-    "author": "Khalif",
-    "link": "detail.jsp?id=15111&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0218"
-  },
-  {
-    "title": "Analisa penerapan partial directory dengan associative memory pada sistem translasi alamat/ Andreas T. Tedja",
-    "author": "Tedja, Andreas T.",
-    "link": "detail.jsp?id=10520&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0085"
-  },
-  {
-    "title": "Design digital microwave Jakarta-Jatiluhur/ Dadang Gunawan",
-    "author": "Gunawan, Dadang",
-    "link": "detail.jsp?id=10543&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0107"
-  },
-  {
-    "title": "Kemungkinan penggunaan polipropelene hasil pertanian  sebagai semi konduktor/ Krisnawati Ridwan",
-    "author": "Ridwan, Krisnawati",
-    "link": "detail.jsp?id=10465&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0028"
-  },
-  {
-    "title": "Memori cache: beberapa faktor yang mempengaruhi performancenya/ Ina Lisyosuputro",
-    "author": "Listyosuputro, Ina",
-    "link": "detail.jsp?id=10553&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0117"
-  },
-  {
-    "title": "Rancangan chip untuk antarmuka telex: fungsi kontrol/ Boedirahardjo S.",
-    "author": "S, Boedirahardjo",
-    "link": "detail.jsp?id=10533&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0096"
-  },
-  {
-    "title": "Simulasi sistem kendali hidrolis/ Augi Saputra Setiawan",
-    "author": "Setiawan, Augi Saputra",
-    "link": "detail.jsp?id=10519&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0081"
-  },
-  {
-    "title": "Simulasi sistem kendali orde dua dengan waktu optimal/ Sri Mulyanti",
-    "author": "Mulyanti, Sri",
-    "link": "detail.jsp?id=10534&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0098"
-  },
-  {
-    "title": "Tracking satelit/ Hajar Hadi",
-    "author": "Hadi, Hajar",
-    "link": "detail.jsp?id=10550&lokasi=lokal",
-    "year": 1983,
-    "call_number": "SK-0114"
-  },
-  {
-    "title": "Charge coupled devices (CCD)/ Sianita Widjaja",
-    "author": "Widjaja, Sianita",
-    "link": "detail.jsp?id=10556&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0120"
-  },
-  {
-    "title": "Interpolasi pembicaraan secara digital pada sistem transmisi TDMA/ Rythme Aulia",
-    "author": "Aulia, Rythme",
-    "link": "detail.jsp?id=10512&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Mechester coding dengan predistorsi/ Yunita Soemantri",
-    "author": "Soemantri, Yunita",
-    "link": "detail.jsp?id=10513&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0079"
-  },
-  {
-    "title": "Pemakaian mikrokomputer CBM 4032 untuk menentukan konsentrasi bakteri dalam fermentasi alkohol menjadi asam cuka/ Hermanto Riawan",
-    "author": "Riawan, Hermanto",
-    "link": "detail.jsp?id=10557&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0121"
-  },
-  {
-    "title": "Pemilihan ADC dalam penggunaan mikroprosesor untuk kromatrograp gas/ Hamidah Tri Irianti",
-    "author": "Tri Irianti, Hamidah",
-    "link": "detail.jsp?id=10555&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0119"
-  },
-  {
-    "title": "Penyadian hamming/ Budi Giarto",
-    "author": "Giarto, Budi",
-    "link": "detail.jsp?id=10511&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0077"
-  },
-  {
-    "title": "Penyandian convolutional/ Erdefi Rakun",
-    "author": "Rakun, Erdefi",
-    "link": "detail.jsp?id=10527&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0092"
-  },
-  {
-    "title": "Relational data base pada IBM S/38/ Santoto, Tri Djoko",
-    "author": "Santoso, Tri Djoko",
-    "link": "detail.jsp?id=10491&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0052"
-  },
-  {
-    "title": "Teknologi gelembung magnetik/ Fanny Santosa",
-    "author": "Santosa, Fanny",
-    "link": "detail.jsp?id=10552&lokasi=lokal",
-    "year": 1982,
-    "call_number": "SK-0116"
-  },
-  {
-    "title": "Otomatisasi perpustakaan dalam bidang penyimpanan dan pencarian kembali informasi di PIPE, LPEM, FEUI/ Supriyanto Sudiharjono",
-    "author": "Sudiharjono, Supriyanto",
-    "link": "detail.jsp?id=10504&lokasi=lokal",
-    "year": 1981,
-    "call_number": "SK-0070"
-  },
-  {
-    "title": "Analisa spatial dan regional stasiun pencatat curah hujan di pulau jawa berdasarkan data curah hujan toal tahunan dari tahun 1951-1975/ Adi Sagitiwarih",
-    "author": "Sagitiwarih, Adi",
-    "link": "detail.jsp?id=10445&lokasi=lokal",
-    "year": 1980,
-    "call_number": "SK-0008"
-  },
-  {
-    "title": "Keputusan management sehubungan dengan maslaah-masalah khusus ditinjau dari konsep biaya relevan aplikasi linear/ Veronika Rahardja",
-    "author": "Rahardja, Veronika",
-    "link": "detail.jsp?id=10439&lokasi=lokal",
-    "year": 1980,
-    "call_number": "SK-0002"
-  },
-  {
-    "title": "Taksiran regresi linier dalam simple random sampling/ Ratu Suftiati",
-    "author": "Suftiati, Ratu",
-    "link": "detail.jsp?id=10583&lokasi=lokal",
-    "year": 1980,
-    "call_number": "SK-0147"
-  },
-  {
-    "title": "Interprestasi  data V.E.S (Vertikal electric sounding) dengan metode kedepan/ A.B. Julianto",
-    "author": "Julianto, A.B.",
-    "link": "detail.jsp?id=10463&lokasi=lokal",
-    "year": 1979,
-    "call_number": "SK-0026"
-  },
-  {
-    "title": "Prinsip maximum dalam persamaan differensial/ Sri Mardiati",
-    "author": "Mardiyati, Sri",
-    "link": "detail.jsp?id=10488&lokasi=lokal",
-    "year": 1979,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Sistim administrasi kelas IBM Indonesia/ Duddy Dwi",
-    "author": "Dwi, Duddy",
-    "link": "detail.jsp?id=10492&lokasi=lokal",
-    "year": 1979,
-    "call_number": "SK-0054"
-  },
-  {
-    "title": "Algoritma fast fourier transform/ Sumantri Slamet Santoso",
-    "author": "Santoso, Sumantri Slamet",
-    "link": "detail.jsp?id=10441&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-0004"
-  },
-  {
-    "title": "Aplikasi komputer pada data refraksi seismik model bumi berlapis-lapis miring/ Agustinus Harsono",
-    "author": "Harsono, Agustinus",
-    "link": "detail.jsp?id=10448&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-???"
-  },
-  {
-    "title": "Kesetaraan pendefinisian - pendefinisian/ Sapto Trilaksono ",
-    "author": "Sapto, Trilaksono",
-    "link": "detail.jsp?id=10466&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-0029"
-  },
-  {
-    "title": "M/M/I & M/M/S dalam queueing theory/ Nachrowi",
-    "author": "Nachrowi",
-    "link": "detail.jsp?id=10469&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-0032"
-  },
-  {
-    "title": "Simulasi sistem stochastik yang diskrit dengan FPSS/ Nachrowi",
-    "author": "Nachrowi",
-    "link": "detail.jsp?id=15732&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-0053"
-  },
-  {
-    "title": "Solusi dari persamaan non linear/ Sapto Trilaksono",
-    "author": "Trilaksono, Sapto",
-    "link": "detail.jsp?id=10494&lokasi=lokal",
-    "year": 1978,
-    "call_number": "SK-0066"
-  },
-  {
-    "title": "Ketidaksamaan linear dan teorema-teorema alternative/ Sumantri Slamet Iman Santoso",
-    "author": "Santoso, Sumantri Salamet Iman",
-    "link": "detail.jsp?id=10593&lokasi=lokal",
-    "year": 1977,
-    "call_number": "SK-0161"
-  },
-  {
-    "title": "Membuat model matematika dengan regresi berganda/ Muljana Soekarni",
-    "author": "Muljana, Soekarni",
-    "link": "detail.jsp?id=10468&lokasi=lokal",
-    "year": 1977,
-    "call_number": "SK-0031"
   },
   {
     "title": "Studi tentang rekayasa dan verifikasi rigor menggunakan SDL dalam perancangan manajemen kegagalan sistem/ Mephri",
@@ -8078,11 +8624,11 @@
     "call_number": "SK-0343"
   },
   {
-    "title": "Usaha komputerisasi dan anxiety sebagai salah satu akibat sampingnya/ A.Y. Sasi Hermanto",
-    "author": "Hermanto, A.Y. Sasi",
-    "link": "detail.jsp?id=15730&lokasi=lokal",
-    "year": 1977,
-    "call_number": "SK-0166"
+    "title": "Extending the product selection language of the abstract behavioral specifiction (ABS) with product experssions",
+    "author": "SK-1399 (Softcopy SK-881) Sourcecode SK-564",
+    "link": "detail.jsp?id=43228&lokasi=lokal",
+    "year": 1399,
+    "call_number": "SK-???"
   },
   {
     "title": "AJUDAN: Alat bantu dalam aktifitas antar mesin/ Yuwono Hadi",
@@ -8090,13 +8636,6 @@
     "link": "detail.jsp?id=7505&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0249"
-  },
-  {
-    "title": "Analisa komponen dan analisa faktor/ Sudarsono",
-    "author": "Sudarsono",
-    "link": "detail.jsp?id=10444&lokasi=lokal",
-    "year": 0,
-    "call_number": "SK-0007"
   },
   {
     "title": "Analisa masalah model bisnis B2B serta perancangan prototipe sistem B2B/ Sandy Poerwadie H.",
@@ -8125,13 +8664,6 @@
     "link": "detail.jsp?id=23667&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0695"
-  },
-  {
-    "title": "Evaluasi dan pemeringkatan situs web e-government pemerintah daerah di indonesia",
-    "author": "Dori Gusvawijaya",
-    "link": "detail.jsp?id=37801&lokasi=lokal",
-    "year": 0,
-    "call_number": "SK-1091"
   },
   {
     "title": "Faktor yang mempengaruhi kesuksesan penerapan pair programming dalam meningkatkan pemahaman konsep pemrograman mahasiswa Fasilkom UI",
@@ -8163,7 +8695,7 @@
   },
   {
     "title": "Implementasi prototipe lingkungan belajar adaptif berbasis web/ Mukhlisoh Urfah",
-    "author": "Urfah, Mukhlisoh",
+    "author": "Mukhlisoh Urfah",
     "link": "detail.jsp?id=7799&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0583"
@@ -8190,6 +8722,13 @@
     "call_number": "SK-0604"
   },
   {
+    "title": "Klasifikasi topik pada tweel berbahasa Indonesia menggunakan metode naive bayes dan maximum entropy",
+    "author": "Arinda Dwi Okfantia",
+    "link": "detail.jsp?id=42768&lokasi=lokal",
+    "year": 0,
+    "call_number": "SK-1324"
+  },
+  {
     "title": "Kolaborasi antara OSGI framework dengan teknologi jini dan home network system/ Shanti Andriyanti",
     "author": "Andriyanti, Shanti",
     "link": "detail.jsp?id=4692&lokasi=lokal",
@@ -8204,25 +8743,11 @@
     "call_number": "SK-1126"
   },
   {
-    "title": "Memori chache: beberapa faktor yang mempengaruhi performancenya/ Ina Listyosuputro",
-    "author": "Listyosuputro, Ina",
-    "link": "detail.jsp?id=18963&lokasi=lokal",
-    "year": 0,
-    "call_number": "SK-0177"
-  },
-  {
     "title": "Metode frobenius untuk mencari solusi persamaan diferensial linear order dua/ Siti Aminah T.",
     "author": "Aminah T, Siti",
     "link": "detail.jsp?id=7504&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0252"
-  },
-  {
-    "title": "Pelacakan heuristic pada algoritma A untuk masalah 8-puzzle pengkajian & pengamatan",
-    "author": "Adrian Wicaksana",
-    "link": "detail.jsp?id=10577&lokasi=lokal",
-    "year": 0,
-    "call_number": "SK-0140"
   },
   {
     "title": "Pembangkit skema basisdata relasional dalam pemodelan sistem berorientasi objek/Hestina Sinaga",
@@ -8253,6 +8778,13 @@
     "call_number": "SK-260"
   },
   {
+    "title": "Pengaruh keamanan dan privasi terhadap repurchase intention pada customer-to-customer (C2C) electronic marketplace",
+    "author": "Intan K. Utami",
+    "link": "detail.jsp?id=43495&lokasi=lokal",
+    "year": 0,
+    "call_number": "SK-1437"
+  },
+  {
     "title": "Penggunaan jaringan hibrida PB-SKNC untuk mengenali data aroma 2 campuran dan aroma 3 campuran",
     "author": "Chafid Ahmad",
     "link": "detail.jsp?id=4636&lokasi=lokal",
@@ -8265,6 +8797,13 @@
     "link": "detail.jsp?id=7183&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0488"
+  },
+  {
+    "title": "Penyusunan prioritas hambatan dan solusi knowledge transfer pada pengembangan software menggunakan metode fuzzy-AHP",
+    "author": "Ika Sepfy Dayanti",
+    "link": "detail.jsp?id=42976&lokasi=lokal",
+    "year": 0,
+    "call_number": "SK-???"
   },
   {
     "title": "Perancangan ontologi user-model untuk pengembangan sistem personalized e-learning berbasis semantic web",
@@ -8295,13 +8834,6 @@
     "call_number": "SK-0257"
   },
   {
-    "title": "Sistem ahli untuk diagnosis kerusakan alat/ Arianta",
-    "author": "Arinta",
-    "link": "detail.jsp?id=18964&lokasi=lokal",
-    "year": 0,
-    "call_number": "SK-0206"
-  },
-  {
     "title": "Strategi pemilihan kalimat sebagai basis pengindeksan dokumen/ TH. Dwi Rinawati",
     "author": "Rinawati, TH. Dwi",
     "link": "detail.jsp?id=7439&lokasi=lokal",
@@ -8321,6 +8853,13 @@
     "link": "detail.jsp?id=8761&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0544"
+  },
+  {
+    "title": "Transformasi feature diagram menjadi micro textual Variability language (μTVL) \tpada abstract behavioral specification \tdengan model to textTransformation tools \tacceleo",
+    "author": "Muhammad Irfan Fadhillah",
+    "link": "detail.jsp?id=42085&lokasi=lokal",
+    "year": 0,
+    "call_number": "SK-1299"
   },
   {
     "title": "Uji coba penggunaan session initiation protocol (SIP) untuk  komunikasi antara bluetooth enabled connected limited device dengan based network/ Adhityo Priyambodo",
