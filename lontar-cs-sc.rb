@@ -11,6 +11,7 @@ require 'json'
 # Main parse function, return array
 # of entries in current uri
 def parse_lontar(uri)
+  puts "Downloading: #{uri}"
   page = Nokogiri::HTML(open(uri))
 
   # Start analyzing from third table.
@@ -27,7 +28,13 @@ def parse_lontar(uri)
     title = table.css('.judulkoleksi a')[0].text
     link = table.css('.judulkoleksi a')[0]['href']
     datakoleksi_raw = table.css('.datakoleksi').last.text
-    author_all = datakoleksi_raw.match(/Author: (.+);.*\|/)[1]
+    author_all = datakoleksi_raw.match(/Author: (.+);.*\|/)
+    author_all = 
+      if author_all.to_a.empty?
+        ''
+      else
+        author_all[1]
+      end
     year_raw = datakoleksi_raw.match(/(\d+).+\|.+Call Number/)
     year = year_raw ? year_raw[1].to_i : 0
     call_number_raw = datakoleksi_raw.match(/Call Number: (SK-\d+)/)
