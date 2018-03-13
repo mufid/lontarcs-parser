@@ -1,5 +1,635 @@
 [
   {
+    "title": " Rancangan dan Implementasi Teknologi Intranet Poll Site Polling Memanfaatkan Enkripsi Berbasis Smartcard dan Android: Studi Kasus Pemira IKM UI",
+    "author": "Jefly",
+    "link": "detail.jsp?id=45740&lokasi=lokal",
+    "year": 2018,
+    "call_number": "SK-1583"
+  },
+  {
+    "title": "Evaluasi counterfactual menggunakan tabling gabungan pada abduction dan updating program logika serta aplikasinya pada bidang machine ethics",
+    "author": "Adam Jordam",
+    "link": "detail.jsp?id=45742&lokasi=lokal",
+    "year": 2018,
+    "call_number": "SK-1588"
+  },
+  {
+    "title": "Klasifikasi",
+    "author": "Galuh Tungga Dewi Sahid",
+    "link": "detail.jsp?id=45743&lokasi=lokal",
+    "year": 2018,
+    "call_number": "SK-1595"
+  },
+  {
+    "title": "Optimis deep learning inference menggunakan pragidma pemrogramaman parallel berbasis cache memory pada perangkat android komoditas",
+    "author": "Ryorda Triaptahadi",
+    "link": "detail.jsp?id=45746&lokasi=lokal",
+    "year": 2018,
+    "call_number": "SK-1592"
+  },
+  {
+    "title": " Evaluasi Desain Materi Instruksional Berdasarkan Gaya Belajar Felder-Silverman ",
+    "author": "Aulia Chairunisa",
+    "link": "detail.jsp?id=45008&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1580"
+  },
+  {
+    "title": "AAnalisis Kegiatan Berbagi Pengetahuan pada Komunitas Customer-to-Customer (C2C) E-Commerce: Studi Kasus Bukalapak",
+    "author": "Septiani Andriane B. Sinaga",
+    "link": "detail.jsp?id=44959&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1525"
+  },
+  {
+    "title": "Analisis Irnplementasi Aplikasi Restaurant Recommender dalam Meningkatkan Kepuasan Pengguna: Studi Kasus Tnntato dan Qraved",
+    "author": "Nur Fazri Ilham",
+    "link": "detail.jsp?id=44954&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1522"
+  },
+  {
+    "title": "Analisis Pengaruh Faktor pada Vlog Terhadap Pembelian Secara Impulsif menggunakan Stimulus Organism Response Model",
+    "author": "Andhika Pradipta Dhaneswara",
+    "link": "detail.jsp?id=44962&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1528"
+  },
+  {
+    "title": "Analisis faktor penerimaan driver ojek online terhadap layanan mobile wallet",
+    "author": "Rifqi Putra Bahalwan",
+    "link": "detail.jsp?id=45738&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1591"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi pengguna ",
+    "author": "Nadya Azizah",
+    "link": "detail.jsp?id=44957&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1524"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi perceived enjoyment pengguna untuk berpartisipasi dalam layanan dynamic ridesharing berdasarkan self-determination theory",
+    "author": "Pyca Gilya",
+    "link": "detail.jsp?id=44948&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1518"
+  },
+  {
+    "title": "Analisis faktor-faktor yang mempengaruhi perilaku pengguna dalam mencapai kredibilitas informasi melalui proses information sharing pada situs facebook dan twitter Go-JEK",
+    "author": "Devi Fadhlullahi Alaika",
+    "link": "detail.jsp?id=44308&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1514"
+  },
+  {
+    "title": "Analisis motivasi kegiatan berbagi informasi di media sosial",
+    "author": "Afira Putri Ghaisani",
+    "link": "detail.jsp?id=44971&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1530"
+  },
+  {
+    "title": "Analisis pengaruh inersia terhadap behavioral belife pengguna untuk beralih dari metode pembayaran uang tunak ke mobile payment",
+    "author": "Khalila Hunafa Ansor Arifai",
+    "link": "detail.jsp?id=44965&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1536"
+  },
+  {
+    "title": "Analsis pemanfaatan media online dalam peyampaian layanan informasi pariwisata",
+    "author": "Hartasia Susan Panandea",
+    "link": "detail.jsp?id=44952&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1520"
+  },
+  {
+    "title": "Antisipasi representasi visual di masa depan dari data set video tanpa label untuk prediksi aksi",
+    "author": "Alva Thomson",
+    "link": "detail.jsp?id=45737&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1584"
+  },
+  {
+    "title": "Aspect based sentiment analysis pada ulasan restoran bahasa Indonesia dengan metode unsupervised",
+    "author": "Dhanang Hadhi Sasmita",
+    "link": "detail.jsp?id=44975&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1544"
+  },
+  {
+    "title": "Assessment Smart Government Menggunakan Scottish Smart City Maturity Model: Studi Kasus Kota Depok",
+    "author": "Muhammad Akmal Juniawan",
+    "link": "detail.jsp?id=44969&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1532"
+  },
+  {
+    "title": "Cross Language Sense Transferring To Build Sense Tagged Corpus and Word Sense Disambiguation for Bahasa Indonesia",
+    "author": "Aditya Rama",
+    "link": "detail.jsp?id=44999&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1559"
+  },
+  {
+    "title": "Dampak Gamifikasi dan Mobile Wallet Performance terhadap Intensi untuk Melanjutkan Penggunaan Layanan Mobile Wallet: Studi Kasus Permainan Go-Points dari Penggunaan Mobile Wallet Go-Pay pada Aplikasi Go-Jek.",
+    "author": "Yunika Winarni",
+    "link": "detail.jsp?id=44963&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1538"
+  },
+  {
+    "title": "Dekomposisi Teks Pertanyaan Bidang Kesehatan Dengan Pendekatan Sequence Labeling dan Chunking",
+    "author": "Adrianus Saga Ekakristi",
+    "link": "detail.jsp?id=45004&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1571"
+  },
+  {
+    "title": "Desain Pembelajaran Online Berbasis Moodle untuk Gaya Belajar Kinestetik ",
+    "author": "Kurnianto Trilaksono",
+    "link": "detail.jsp?id=45007&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1581"
+  },
+  {
+    "title": "Deteksi Ujaran Kebencian pada Tweet Berbahasa Indonesia Menggunakan Pendekatan Machine Learning",
+    "author": "Rio Mulia",
+    "link": "detail.jsp?id=44982&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1555"
+  },
+  {
+    "title": "Deteksi malicious code pada PHP berdasarkan analisis statis dinamis pada zend engine",
+    "author": "Fariskhi Vidyan",
+    "link": "detail.jsp?id=44314&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1502"
+  },
+  {
+    "title": "Developing A Personalized Pedagogical Agent Using Felder- Silverman Learning Styles on SCeLE",
+    "author": "Adrianus",
+    "link": "detail.jsp?id=44991&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1566"
+  },
+  {
+    "title": "Ekstraksi Dimensi Kualitas Layanan Ridesourcing yang Memengaruhi Kepuasan Pelanggan Menggunakan Latent Dirichlet Allocation: Studi Kasus GO-JEK",
+    "author": "Prima Permata Lusiana",
+    "link": "detail.jsp?id=44980&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1539"
+  },
+  {
+    "title": "Ekstraksi Frase Kunci pada Pertanyaan Forum Kesehatan Online dengan Pendekatan Deep Learning",
+    "author": "Ilham Fathy Saputra",
+    "link": "detail.jsp?id=44984&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1553"
+  },
+  {
+    "title": "Ekstraksi Hubungan Symptom-Disease Pada Sistem Tanya Jawab Bidang Kesehatan Menggunakan Metode Support Vector Machine dan Multi Layer Perceptron",
+    "author": "Christinan Halim",
+    "link": "detail.jsp?id=44995&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1562"
+  },
+  {
+    "title": "Elaborasi algorithma deep learning untuk pendeteksian objek dalam waktu nyata",
+    "author": "Muhammad Reza Qorib",
+    "link": "detail.jsp?id=45735&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1586"
+  },
+  {
+    "title": "Evaluasi dan perbaikan dengan interaksi wakaf elektronik di website wakafqurban.org",
+    "author": "Arsila Gishadia Rasnadiputri",
+    "link": "detail.jsp?id=44967&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1533"
+  },
+  {
+    "title": "Evaluasi pengembangan alternatif desain interaksi website staff Universitas Indonesia",
+    "author": "Andre Valerian",
+    "link": "detail.jsp?id=44960&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1526"
+  },
+  {
+    "title": "Evaluasi perbaikan desain interaksi pada website tokopedia mitra toppers",
+    "author": "Muhammad Fadly Uzzaki",
+    "link": "detail.jsp?id=45736&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1585"
+  },
+  {
+    "title": "EvaluasidanPengembanganAlternatifDesainInteraksiSitusPembelajaranOnline: Cozora",
+    "author": "Puti Fitri Larasati",
+    "link": "detail.jsp?id=45009&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1579"
+  },
+  {
+    "title": "Faktor-Faktor yang Memengaruhi Behavioral Intention Pengguna pada Layanan Transportasi Online di Indonesia: Studi Kasus Go-Jek, Grab, dan Uber.",
+    "author": "Ricky Septian",
+    "link": "detail.jsp?id=44961&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1529"
+  },
+  {
+    "title": "Faktor-Faktor yang Mempengaruhi Intensi Melakukan Donasi Online Berdasarkan Perspektif Perceived Credibility dan Elaboration Likelihood Model: Studi Kasus Website Kitabisa",
+    "author": "Latifatul Khairiyah",
+    "link": "detail.jsp?id=44979&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1540"
+  },
+  {
+    "title": "Faktor-faktor kualitas informasi dan kredibilitas sumber informasi yang mempengaruhi persepsi manfaat dan risiko terhadap intensi adapsi dan penyebaran informasi kesehatan di Mesia sosial",
+    "author": "Astrinanda Islami",
+    "link": "detail.jsp?id=44953&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1521"
+  },
+  {
+    "title": "Faktor-faktor yang mempengaruhi persepsi kualitas produk dan brand trust dan dampaknya pada purchase intention menggunakan perspektif elaboration likelehood model: studi kasus video tutorial makeup youtube",
+    "author": "William Chandra",
+    "link": "detail.jsp?id=44306&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1515"
+  },
+  {
+    "title": "Faktorisasi interger besar dengan algoritma number field sieve untuk aplikasi kriptografik",
+    "author": "Pusaka Kaleb  Setyabudi",
+    "link": "detail.jsp?id=44319&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1495"
+  },
+  {
+    "title": "Identifikasi Central Node dalam Penyebaran Rumor pada Online Social Network Twitter Menggunakan Pembobotan Edge dan Pembobotan Algoritma Centrality Measure untuk Static Network",
+    "author": "Fathia Kusuma Dewi",
+    "link": "detail.jsp?id=45003&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1569"
+  },
+  {
+    "title": "Identifikasi dimensi kepuasan pengguna peer- to preer accomodataion dengan latent direchlet allocation : studi kasus AIRBNB",
+    "author": "Kevin Mahendra Situmorang",
+    "link": "detail.jsp?id=44956&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1527"
+  },
+  {
+    "title": "Implementasi Collaborative Filtering Menggunakan Community Structure pada Sistem Rekomendasi",
+    "author": "Aziz Ma'arij Jamil",
+    "link": "detail.jsp?id=44978&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1541"
+  },
+  {
+    "title": "Implementasi Penghitungan Kendaraan Pada Siang Hari dengan Menggunakan Virtual Line dan Penanganan Occlusion",
+    "author": "Jatmiko Budi Baskoro",
+    "link": "detail.jsp?id=44988&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1549"
+  },
+  {
+    "title": "Implementasi portal manajemen sumber daya HPC dengan load balancer dan job sceduler berbasiskan high throughput condor",
+    "author": "Dennis Pratama Kamah",
+    "link": "detail.jsp?id=44316&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1500"
+  },
+  {
+    "title": "Integrasi Ontologi dan Web Services pada Zotonic",
+    "author": "Andri Kurniawan",
+    "link": "detail.jsp?id=44983&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1554"
+  },
+  {
+    "title": "Klasifikasi Multi-label untuk Mendeteksi Elemen Community of Inquiry dalam Kalimat pada Forum Diskusi Online",
+    "author": "Muhammad Luthfi",
+    "link": "detail.jsp?id=44990&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1567"
+  },
+  {
+    "title": "Klasifikasi Stance pada Teks Berbahasa Inggris Menggunakan Supervised Learning",
+    "author": "Karunia",
+    "link": "detail.jsp?id=45005&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1557"
+  },
+  {
+    "title": "Mengukur kualitas layanan pada faktor teknologi untuk aplikasi transportasi online, studi kasus Go-Jek, Grab dan Uber",
+    "author": "Shilvia Lesmana BR Silalahi",
+    "link": "detail.jsp?id=44955&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1523"
+  },
+  {
+    "title": "Named Entity Recognition for Product Descriptions in Indonesian E-commerce Platform",
+    "author": "",
+    "link": "detail.jsp?id=44997&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-???"
+  },
+  {
+    "title": "Panduan perancangan arsitektur informasi website fakultas berlandaskan prinsip desain interaksi: studi kasus rumpun ilmu kesehatan Universitas Indonesia",
+    "author": "Saadaturrohim Nafia'ah Al-Khoir",
+    "link": "detail.jsp?id=44312&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1499"
+  },
+  {
+    "title": "Pegembangan awal dataset kesalahan penulisan ilmiah bahasa Indonesia",
+    "author": "Muhammad Izzunaqi",
+    "link": "detail.jsp?id=45744&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1594"
+  },
+  {
+    "title": "Pembangunan Korpus Pasangan Kata Relasi Hipernim- Hiponim Bahasa Indonesia Menggunakan Pendekatan Pattern Analysis",
+    "author": "Made Nindyatama Nityasya",
+    "link": "detail.jsp?id=44974&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1545"
+  },
+  {
+    "title": "Pembangunan awal model  ekstrasi Leksikom bilingual Indonesia-Inggris",
+    "author": "Muhammad Iddad Izzatulummah",
+    "link": "detail.jsp?id=45745&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1593"
+  },
+  {
+    "title": "Pembangunan trust model untuk menilai trust merchant di Media Sosial Twitter",
+    "author": "Rafikatiwi Nur Pujiarti",
+    "link": "detail.jsp?id=45734&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1587"
+  },
+  {
+    "title": "Pembentukan otomatis aplikasi berbasis web dengan  masukan berupa ontologi: studi kasus web BSMI",
+    "author": "Bravyto Takwa Pangukir",
+    "link": "detail.jsp?id=44285&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1510"
+  },
+  {
+    "title": "Penerapan Change Data Capture pada Proses ETL untuk Data Warehouse Menggunakan HDFS dan Apache Spark",
+    "author": "I Putu Atamaja",
+    "link": "detail.jsp?id=44966&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1535"
+  },
+  {
+    "title": "Pengamanan Transaksi Bitcoin dari Kemungkinan Pendanaan Aksi Terorisme dan Money Laundering.",
+    "author": "Abidzar Gifari",
+    "link": "detail.jsp?id=45017&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1575"
+  },
+  {
+    "title": "Pengaruh penerapan persuasive system design pada intensi untuk menggunakan aplikasi mobile health",
+    "author": "Fransisca Natalia Damayani",
+    "link": "detail.jsp?id=44964&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1537"
+  },
+  {
+    "title": "Pengembangan  lanjut ekspansi entitas DBpedia pada pembuatan dataset secara otomatis untuk named entity recognition bahasa Indonesia",
+    "author": "Septiana Savitri",
+    "link": "detail.jsp?id=44985&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1552"
+  },
+  {
+    "title": "Pengembangan Alternatif Desain Interaksi E-Commerce Qlapa.com Berdasarkan Faktor-Faktor yang Memengaruhi Purchase Intention",
+    "author": "Rahma Khairunisa Nursalamah",
+    "link": "detail.jsp?id=44968&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1534"
+  },
+  {
+    "title": "Pengembangan Indonesia Open Education Resource berdasarkan Customer journey",
+    "author": "Danan Arief Desprianto",
+    "link": "detail.jsp?id=45015&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1577"
+  },
+  {
+    "title": "Pengembangan Interactive Learning Module untuk Memvisualisasikan Self-Regulated Learning Skills: Studi Kasus Dasar-dasar Boolean Logic",
+    "author": "Luthfi Kurnia Putra",
+    "link": "detail.jsp?id=44996&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1561"
+  },
+  {
+    "title": "Pengembangan Lanjut Ekspansi Entitas DBpedia pada Pembuatan Dataset Secara Otomatis untuk Named Entity Recognition Bahasa Indonesia",
+    "author": "Nayana Taradhanti Hodi",
+    "link": "detail.jsp?id=44986&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1551"
+  },
+  {
+    "title": "Pengembangan Protipe Sistem Monitoring Lahan Gambut",
+    "author": "Rifki Nurfaiz",
+    "link": "detail.jsp?id=45006&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1558"
+  },
+  {
+    "title": "Pengembangan Prototipe Automated Border Control Gate Menggunakan Kartu Identitas dengan Spesifikasi Konsorsium Smart Card Indonesia",
+    "author": "Nabilla Rahmani Zhafira",
+    "link": "detail.jsp?id=44976&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1543"
+  },
+  {
+    "title": "Pengembangan Prototipe Fitur Pengumpulan dan Pencarian Data Profil dan Publikasi Penelitian pada Website Staf Universitas Indonesia",
+    "author": "Aditya Putra",
+    "link": "detail.jsp?id=44977&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1542"
+  },
+  {
+    "title": "Pengembangan Prototipe Sistem Transaksi dalam Lingkup Tertutup berbasis Smart Card dengan Spesifikasi Konsorsium Smart Card Indonesia",
+    "author": "Kevin Aditya Prabowo",
+    "link": "detail.jsp?id=44992&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1565"
+  },
+  {
+    "title": "Pengembangan Prototipe Topologi Jaringan Alat Monitoring Lahan Gambut Berbasis ESP8266",
+    "author": "Bintang Wibowo",
+    "link": "detail.jsp?id=44972&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1547"
+  },
+  {
+    "title": "Pengembangan Virtual Lab berbasis MINUI untuk Perkuliahan Teknik Kompilator",
+    "author": "Ferdinan Antonius",
+    "link": "detail.jsp?id=45002&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1570"
+  },
+  {
+    "title": "Pengembangan dan Evaluasi Prototipe User Experience Questionnaire (UEQ) Online Tool   ",
+    "author": "Bima Artha Prasetyo",
+    "link": "detail.jsp?id=45013&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1574"
+  },
+  {
+    "title": "Pengembangan dan evaluasi aplikasi scele mobile Fasilkom  UI berdasarkan user-centered design",
+    "author": "Riandy Dimas Baninmahendra",
+    "link": "detail.jsp?id=44950&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1519"
+  },
+  {
+    "title": "Pengembangan fitur kontribusi e-Indonesia berbasis crowd science",
+    "author": "M. Risky Negoro Putro",
+    "link": "detail.jsp?id=44318&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1498"
+  },
+  {
+    "title": "Pengembangan korpus textual entailment bahasa Indoneisa menggunakan  data wikipedia revision history dengan metode Co-training",
+    "author": "Ken Nabila Setya",
+    "link": "detail.jsp?id=44317&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1497"
+  },
+  {
+    "title": "Pengenalan Entitas Bernama pada Deskripsi Produk Ecommerce di Indonesia",
+    "author": "Muhammad Rif’at",
+    "link": "detail.jsp?id=44998&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1560"
+  },
+  {
+    "title": "Pengenalan entitas kesehatan pada forum kesehatan online dengan menggunakan percurrent neural networks",
+    "author": "Wahid Nur Rohman",
+    "link": "detail.jsp?id=44326&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1506"
+  },
+  {
+    "title": "Penggunaan Mobile Learning dalam Memperkaya Proses Belajar di Luar Kelas pada Tingkat Sekolah Menengah Atas: Studi Kasus Aplikasi Ruangguru dan Line Academy",
+    "author": "Dini Seprilia",
+    "link": "detail.jsp?id=44970&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1531"
+  },
+  {
+    "title": "Penjadwalan Kuliah Menggunakan Answer Set Programming",
+    "author": "Irvi Firqotul Aini",
+    "link": "detail.jsp?id=44993&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1564"
+  },
+  {
+    "title": "Perancangan dan Implementasi Card Profile berbasis Java Card Menerapkan Spesifikasi Konsorsium Smart Card Indonesia",
+    "author": "Muhammad Prakash Divy I.",
+    "link": "detail.jsp?id=44981&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1556"
+  },
+  {
+    "title": "Perolehan Informasi Lintas Bahasa Menggunakan Korpus Paralel dengan Metode Bilingual Mapping",
+    "author": "Rinaldi Andrian Rahmanda",
+    "link": "detail.jsp?id=44987&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1550"
+  },
+  {
+    "title": "Prediksi Mahasiswa yang Mengalami Kesulitan dalam Proses Belajar Pemrograman Berbasis Online",
+    "author": "",
+    "link": "detail.jsp?id=45001&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-???"
+  },
+  {
+    "title": "Prediksi Mahasiswa yang Mengalami Kesulitan dalam Proses Belajar Pemrograman Berbasis Online",
+    "author": "Mohammad Dwiyan Rahmanianto",
+    "link": "detail.jsp?id=45000&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1568"
+  },
+  {
+    "title": "Prediksi Nilai Tukar Bitcoin Terhadap Dolar Amerika Menggunakan Metode Artificial Neural Network",
+    "author": "Arief Radityo",
+    "link": "detail.jsp?id=45014&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1576"
+  },
+  {
+    "title": "Prototype Development for Financial Manager Feature on Jenius Mobile Application using Interface Design Principle. ",
+    "author": "Desi Ratna Mukti Umpuan",
+    "link": "detail.jsp?id=45741&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1589"
+  },
+  {
+    "title": "Prototype Development of Proofreading Application for Bahasa Indonesia based on Interaction Design Principles ",
+    "author": "Rebby Rahmando",
+    "link": "detail.jsp?id=45012&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1572"
+  },
+  {
+    "title": "Semantic Role Labeling untuk Bahasa Indonesia PercakapandenganMenggunakanDeepLearning",
+    "author": "Valdi Rahman",
+    "link": "detail.jsp?id=45010&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1578"
+  },
+  {
+    "title": "Sistem Pembacaan Bibir Otomatis End-to-End dan Sequence-to-Sequence dengan Spatiotemporal CNN dan Gated RNN",
+    "author": "Muhammad Rizki Aulia Rahman Maulana",
+    "link": "detail.jsp?id=44973&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1546"
+  },
+  {
+    "title": "Skema IBE (Identity-Based Encryption Sakai-Kashara menggunakan tate pairing dan iplementasinya",
+    "author": "Anthony",
+    "link": "detail.jsp?id=44313&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1501"
+  },
+  {
+    "title": "Tabling Gabungan pada Abduction dan Updating Program Logika",
+    "author": "Ammar Fathin Sabili",
+    "link": "detail.jsp?id=44989&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1548"
+  },
+  {
+    "title": "Tabling dan Answer Subsumption pada Contextual Abduction",
+    "author": "Syukri Mulia Adil Perkasa",
+    "link": "detail.jsp?id=44994&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1563"
+  },
+  {
+    "title": "The implementation of internet memes to build band awareness of e-commerce in Indonesia : a case study of Fabelio",
+    "author": "Elfira Fauziah",
+    "link": "detail.jsp?id=45739&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1590"
+  },
+  {
+    "title": "Visualisasi content analysis dalam forum diskusi online asynchronous",
+    "author": "Asri Hanif Ronaza",
+    "link": "detail.jsp?id=44311&lokasi=lokal",
+    "year": 2017,
+    "call_number": "SK-1496"
+  },
+  {
     "title": "A two-tiered approach to automatic jazz walking bass line generation using genetic algorithm",
     "author": "Adya Danaditya",
     "link": "detail.jsp?id=43255&lokasi=lokal",
@@ -8,7 +638,7 @@
   },
   {
     "title": "Adaptasi expectation-confirmation model untuk memprediksi pengaruh system quality dan service quality terhadap continuance intention behavior pada penggunaan aplikasi berbasis m-service: studi kasus aplikasi mobile GO-JEK",
-    "author": "Khalida Anggun",
+    "author": "Khalida Anggun Rahmadini",
     "link": "detail.jsp?id=43519&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1459"
@@ -19,6 +649,13 @@
     "link": "detail.jsp?id=43490&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1433"
+  },
+  {
+    "title": "Analisis algoritma optimasi yang terinspirasi dari alam pada proses pemilihan segmen untuk segmentasi semantik pada data citra ",
+    "author": "Ilham Kusuma",
+    "link": "detail.jsp?id=44006&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1492"
   },
   {
     "title": "Analisis efektivitas iklan personalisasi produk e-commerce di media sosial dan pengaruhnya terhadap keinginan membeli secara impulsif",
@@ -49,6 +686,13 @@
     "call_number": "SK-1448"
   },
   {
+    "title": "Analisis pengaruh aktivitas lintas kuliah terhadap prediksi kelulusan mahasiswa pada mata kuliah",
+    "author": "Muhammad Idham Ramadhan",
+    "link": "detail.jsp?id=43662&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1491"
+  },
+  {
     "title": "Analisis pengaruh brand community berbasis media sosial terhadap brand loyalty: studi kasus Uber",
     "author": "Jamilah",
     "link": "detail.jsp?id=43476&lokasi=lokal",
@@ -63,6 +707,13 @@
     "call_number": "SK-1422"
   },
   {
+    "title": "Analisis perbandingan memory-based dan model-based collaborative filtering pada implementasi sistem perekomendasi untuk e-commerce di Indonesia: studi kasus PT X",
+    "author": "Pandhu Hutomo Aditya",
+    "link": "detail.jsp?id=45098&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1582"
+  },
+  {
     "title": "Analisis proses bisnis ujian berbasis komputer (CBT) generik untuk mendukung operasional ujian pada tahapan pelaksanaan dan pasca pelaksanaan",
     "author": "Hani Awaliyah",
     "link": "detail.jsp?id=43522&lokasi=lokal",
@@ -75,6 +726,13 @@
     "link": "detail.jsp?id=43541&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1468"
+  },
+  {
+    "title": "Analisis topologi jaringan menggunakan algoritma linkrank untuk community detection pada himpunan data DBLP",
+    "author": "Muhammad Arvin Samuar",
+    "link": "detail.jsp?id=44323&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1508"
   },
   {
     "title": "Desain pengembangan aplikasi pembelajaran bahasa arab berbasis mobile",
@@ -189,6 +847,13 @@
     "call_number": "SK-1450"
   },
   {
+    "title": "Implementasi devops pada pengembangan perangkat lunak di Bank BTPN",
+    "author": "Rafi Devandra Yusmananda",
+    "link": "detail.jsp?id=44315&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1494"
+  },
+  {
     "title": "Implementasi metode gaussian mixture model background subtraction, algoritma hole filling dan metode gaussian blur pada GPU dengan platform cuda",
     "author": "RIndra Wiska",
     "link": "detail.jsp?id=43545&lokasi=lokal",
@@ -208,6 +873,13 @@
     "link": "detail.jsp?id=43464&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1418"
+  },
+  {
+    "title": "Indentifikasi Critical Success Factors (CSF) dan kebutuhan fungsional aplikasi service automation : studi kasus Direktorat Advokasi dan penyelesaian sanggah Lembaga Kebijakan Pengadaan Barang/Jarang Pemerintah (LKPP) ",
+    "author": "Adista Asandia",
+    "link": "detail.jsp?id=44307&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1512"
   },
   {
     "title": "Integrasi grafitasi, subjective well-being dan expectation confirmation model untuk memprediksi perilaku penggunaan kembali aplikasi online dating",
@@ -259,6 +931,20 @@
     "call_number": "SK-1414"
   },
   {
+    "title": "Penerapan software product line dalam pengembangan role-playing game",
+    "author": "Fariz Abirafdi Benarto",
+    "link": "detail.jsp?id=44739&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1517"
+  },
+  {
+    "title": "Penerapan transfer learning untuk peningkatan performa training deep q-network pada permainan atari 1600",
+    "author": "Taufik Ardistyo Wiradarmo",
+    "link": "detail.jsp?id=44324&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1507"
+  },
+  {
     "title": "Penerapan usabililty testing pada sistem cortana dan google now",
     "author": "Andreas Hermawan",
     "link": "detail.jsp?id=43494&lokasi=lokal",
@@ -285,6 +971,13 @@
     "link": "detail.jsp?id=43527&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1451"
+  },
+  {
+    "title": "Pengaruh kualitas layanan berbasis elektronik terhadap intensi seseorang untuk menggunakan layanan go-food dengan pendekatan teori difusi inovasi",
+    "author": "Fauzan Majid",
+    "link": "detail.jsp?id=44309&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1513"
   },
   {
     "title": "Pengaruh kualitas layanan dan kepuasan pelanggan terhadap minat beli ulang pada situs mobile commerce",
@@ -336,11 +1029,25 @@
     "call_number": "SK-1421"
   },
   {
+    "title": "Pengembangan alternatif desain interaksi scele mobile dalam perspektif mahasiswa berdasarkan user-centered design",
+    "author": "Hanif Ibadurrahman",
+    "link": "detail.jsp?id=44320&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1503"
+  },
+  {
     "title": "Pengembangan aplikasi penunjang gizi seimbang berbasis android dengan pemanfaatan accelerometer sensor sebagai penghitung pembakar kalori   per aktivitas",
     "author": "Roland Raymond Dino",
     "link": "detail.jsp?id=43548&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1473"
+  },
+  {
+    "title": "Pengembangan dan evaluasi prototipe website e-govenmernt berbasis dimensi kultur (culture dimension) Studi kasus lima suku bangsa Indonesia",
+    "author": "Abdul Mukhlis",
+    "link": "detail.jsp?id=44325&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1493"
   },
   {
     "title": "Pengembangan dan evaluasi protototipe sistem notifikasi pada sistem informasi akademik universitas",
@@ -371,20 +1078,6 @@
     "call_number": "SK-1469"
   },
   {
-    "title": "Pengembangan learning dashboard bagi pengajar : studi kasus scele Fakultas Ilmu Komputer Universitas Indonesia",
-    "author": "Alivia Khaira Batubara",
-    "link": "detail.jsp?id=43537&lokasi=lokal",
-    "year": 2016,
-    "call_number": "SK-1469"
-  },
-  {
-    "title": "Pengembangan learning dashboard bagi pengajar : studi kasus scele Fakultas Ilmu Komputer Universitas Indonesia",
-    "author": "Alivia Khaira Batubara",
-    "link": "detail.jsp?id=43534&lokasi=lokal",
-    "year": 2016,
-    "call_number": "SK-1469"
-  },
-  {
     "title": "Pengembangan program Translasi model abstract behavioral specification (ABS) menjadi Model UML dengan Delta Orienced Proggamming (DOP) profile",
     "author": "Rizki Muhammad",
     "link": "detail.jsp?id=43554&lokasi=lokal",
@@ -399,11 +1092,32 @@
     "call_number": "SK-1463"
   },
   {
+    "title": "Pengembangan prototipe portal web e-goverment dengan prinsip desain interaksi",
+    "author": "Muhammad Devakto Ibnu Nurfahmi",
+    "link": "detail.jsp?id=44327&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1505"
+  },
+  {
     "title": "Pengembangan prototipe sistem pencarian dokumen terfederasi menggunakan jaringan hybrid peer to peer : studi kasus pendeteksian plagiarisme",
     "author": "Widyanto Bagus Priambodo",
     "link": "detail.jsp?id=43504&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1441"
+  },
+  {
+    "title": "Pengembangan sistem data mining untuk memprediksi  kondisi operasi dari waterpoint di Tanzania",
+    "author": "Roy Mario Fransiskus Klau",
+    "link": "detail.jsp?id=44310&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1516"
+  },
+  {
+    "title": "Pengembangan sistem named entity recognition bahasa Indonesia menggunakan Long Short Term Memory",
+    "author": "Putu Wira Astika Dharma",
+    "link": "detail.jsp?id=44330&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1509"
   },
   {
     "title": "Pengembangan software dan database sebagai bagian dari sistem informasi south-south and  triangular cooperation (SSTC) Indonesia",
@@ -469,6 +1183,13 @@
     "call_number": "SK-1443"
   },
   {
+    "title": "Pertimbangan budaya dalam perancangan desain tampilan situs e-commerce",
+    "author": "Daniya Rachmadiani",
+    "link": "detail.jsp?id=44321&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1504"
+  },
+  {
     "title": "Perumusan kamus data kompetensi pegawai studi kasus badan POM RI",
     "author": "Haritztya Azka Zhaviri Masud",
     "link": "detail.jsp?id=43487&lokasi=lokal",
@@ -497,6 +1218,13 @@
     "call_number": "SK-1419"
   },
   {
+    "title": "Prediksi risiko kegagalan pada mata kulaih SDA dengan algoritma extreme gradient boosting",
+    "author": "Kamila Dini Nabilati",
+    "link": "detail.jsp?id=44066&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1420"
+  },
+  {
     "title": "Proses bisnis tahap persiapan dan pra untuk mendukung kegiatan Ujian Berbasis Komputer (CBT) Genetik Menggunakan Smart Card dan Boot Server",
     "author": "Siti Nurvianingrum",
     "link": "detail.jsp?id=43557&lokasi=lokal",
@@ -516,6 +1244,13 @@
     "link": "detail.jsp?id=43531&lokasi=lokal",
     "year": 2016,
     "call_number": "SK-1457"
+  },
+  {
+    "title": "Sistem rekomendasi e-commerce menggunakan collaborative filtering berdasarkan kombinasi user simality dan item similarity",
+    "author": "Aghny Arisya Putra",
+    "link": "detail.jsp?id=44322&lokasi=lokal",
+    "year": 2016,
+    "call_number": "SK-1511"
   },
   {
     "title": "Trust tranfer dan pengaruhnya terhadap penggunaan kembali personal cloud strorage service",
@@ -600,13 +1335,6 @@
     "link": "detail.jsp?id=42840&lokasi=lokal",
     "year": 2015,
     "call_number": "SK-1379"
-  },
-  {
-    "title": "Analisis kematangan implementasi internet protocol version 6 (IPv6) di Universitas Indonesia dengan interim maturity evaluation dan capability maturity model for IPv6 implementation (CMMIPv61)",
-    "author": "Reza Mauliadi",
-    "link": "detail.jsp?id=42802&lokasi=lokal",
-    "year": 2015,
-    "call_number": "SK-1321"
   },
   {
     "title": "Analisis kematangan implementasi internet protocol version 6 (IPv6) di Universitas Indonesia dengan interim maturity evaluation dan capability maturity model for IPv6 implementation (CMMIPv6I)",
@@ -7638,7 +8366,7 @@
   },
   {
     "title": "Studi keefektifan penggunaan teknik-teknik optimasi kueri basis data relasional pada data warehause/ Daryl N. Wirakartakusumah",
-    "author": "Wirakartakusumah, Daryl N.;  | Publisher: [Depok: Fasilkom UI, 1998",
+    "author": "Wirakartakusumah, Daryl N.;  | Publisher: [Depok: Fasilkom UI, 1998;",
     "link": "detail.jsp?id=7430&lokasi=lokal",
     "year": 1998,
     "call_number": "SK-0396"
@@ -7897,7 +8625,7 @@
   },
   {
     "title": "Alat bantu reusability kelas dan objek pada tahap analisis dan perancangan/ Yova Ruldeviyani",
-    "author": "Rudeviyani, Yova",
+    "author": "Yova Rudeviyani",
     "link": "detail.jsp?id=4474&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0315"
@@ -7967,7 +8695,7 @@
   },
   {
     "title": "PINOR: Piranti pelaksana normalisasi basis data relasional/ Novrita Andriani",
-    "author": "Andriani, Novrita",
+    "author": "Novrita  Andrian",
     "link": "detail.jsp?id=4466&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0304"
@@ -7981,7 +8709,7 @@
   },
   {
     "title": "Pemodelan pengetahuan siswa berbasiskan batasan-batasan pada materi persamaan linear dengan satu variabel/ Hadi Wisnu Pratowo",
-    "author": "Pratowo, Hadi Wisnu",
+    "author": "Hadi Wisnu  Pratowo",
     "link": "detail.jsp?id=4475&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0316"
@@ -7995,7 +8723,7 @@
   },
   {
     "title": "Pengembangan prototipe sipintas dengan dukungan berbagai sumber informasi yang terintegrasi/Wibowo Santoso",
-    "author": "Santoso, Wibowo",
+    "author": "Wibowo  Santoso",
     "link": "detail.jsp?id=4455&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0294"
@@ -8009,7 +8737,7 @@
   },
   {
     "title": "Perangkat bantu pengembangan perangkat ajar berbantuan komputer untuk bidang ilmu berbasis diagnosa: studi kasus pada bidang klinis/Paul J. Tuanakotta",
-    "author": "Tuanakotta, Paul J.",
+    "author": "Paul J. Tuanakotta",
     "link": "detail.jsp?id=4467&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0305"
@@ -8023,7 +8751,7 @@
   },
   {
     "title": "Simulasi perilaku industri manufaktur sederhana memakai metodologi berorientasi objek/Boyke Komara Putra",
-    "author": "Putra, Boyke Komara",
+    "author": "Boyke Komara Putra,",
     "link": "detail.jsp?id=4476&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0317"
@@ -8044,7 +8772,7 @@
   },
   {
     "title": "Transkriptor dari huruf latin ke huruf Jawa/Joseph Victor",
-    "author": "Victor, Joseph",
+    "author": "Joseph  Victor",
     "link": "detail.jsp?id=4471&lokasi=lokal",
     "year": 1996,
     "call_number": "SK-0312"
@@ -8058,7 +8786,7 @@
   },
   {
     "title": "Alat bantu interaktif untuk keperluan identifikasi wajah/ Feryson Darwis",
-    "author": "Darwis, Feryson",
+    "author": "Feryson  Darwis",
     "link": "detail.jsp?id=4461&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0299"
@@ -8072,7 +8800,7 @@
   },
   {
     "title": "Emulasi protokol z-phase commit pada sistem basis data terdistribusi berbasis isis/ Betty Purwandari",
-    "author": "Purwandari, Betty",
+    "author": "Betty  Purwandari",
     "link": "detail.jsp?id=7463&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0284"
@@ -8086,14 +8814,14 @@
   },
   {
     "title": "Klasifikasi dan Model Matematika Untuk Kasus Rangkaian Elektronik/Suci Ratnawati",
-    "author": "Ratnawati, Suci",
+    "author": "Suci  Ratnawati",
     "link": "detail.jsp?id=4482&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0289"
   },
   {
     "title": "Manajer repository untuk pengembangan perangkat lunak berorientasi objek/Richard A. Kasenda",
-    "author": "Kasenda, Richard A.",
+    "author": "Richard A. Kasenda",
     "link": "detail.jsp?id=4453&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0286"
@@ -8135,21 +8863,21 @@
   },
   {
     "title": "Prototipe pemeriksa tata bahasa baku bahasa Indonesia: sebuah program yang dikembangkan dengan alat bantu lex dan YACC pada sistem operasi unix/ Syandra Sari",
-    "author": "Sari, Syandra",
+    "author": "Syandra Sari",
     "link": "detail.jsp?id=4454&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0287"
   },
   {
     "title": "Representasi kematangan proses pengembangan perangkat lunak dalam skala industri dengan menggunakan pendekatan berorientasi obyek/Dirk Pieter Siegers",
-    "author": "Sieger, Dirk Pieter",
+    "author": "Dirk Pieter  Sieger",
     "link": "detail.jsp?id=4450&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0283"
   },
   {
     "title": "SBT: sistem berkas terkompres, implementasi dan analisa/Wahyu Suadi",
-    "author": "Suadi, Wahyu",
+    "author": "Wahyu Suadi",
     "link": "detail.jsp?id=4456&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0295"
@@ -8163,7 +8891,7 @@
   },
   {
     "title": "Studi pengenalan permukaan obyek tiga dimensi pada range image berdasarkan kurvatur mean dan gaussian/Sri Viranti",
-    "author": "Budisayekti, Sri Viranti",
+    "author": "Sri Viranti; Budisayekti",
     "link": "detail.jsp?id=4463&lokasi=lokal",
     "year": 1995,
     "call_number": "SK-0301"
@@ -8212,7 +8940,7 @@
   },
   {
     "title": "Implementasi prototipe pertukaran data elektronis dengan penerjemah berbasis UN/EDIFACT/Ivan Sorano Chandra",
-    "author": "Chandra, Ivan Sorano",
+    "author": "Ivan Sorano  Chandra",
     "link": "detail.jsp?id=4418&lokasi=lokal",
     "year": 1994,
     "call_number": "SK-0277"
@@ -8233,7 +8961,7 @@
   },
   {
     "title": "Pengklasifikasi vegetasi hutan hujan tropis secara otomatis/Agung Kuswanto",
-    "author": "Kuswnto, Agung",
+    "author": "Agung Kuswnto",
     "link": "detail.jsp?id=4470&lokasi=lokal",
     "year": 1994,
     "call_number": "SK-0311"
@@ -8372,11 +9100,25 @@
     "call_number": "SK-0251"
   },
   {
+    "title": "Emulasi protokol 2-phase commit pada jaringan basis data terdistribusi/Muhammad Kadarullah",
+    "author": "\"Kadarullah, Muhammad; \"",
+    "link": "detail.jsp?id=32106&lokasi=lokal",
+    "year": 1992,
+    "call_number": "SK-247"
+  },
+  {
     "title": "FASTJOB: Fasilitas Sistem Pelayanan Job pada jaringan komputer lokal/ Nurcahman",
     "author": "Nurachman",
     "link": "detail.jsp?id=7507&lokasi=lokal",
     "year": 1992,
     "call_number": "SK-0248"
+  },
+  {
+    "title": "FASTJOB: Fasilitas sistem pelayanan job pada jaringan komputer lokal",
+    "author": "Nurachman",
+    "link": "detail.jsp?id=32107&lokasi=lokal",
+    "year": 1992,
+    "call_number": "SK-248"
   },
   {
     "title": "Manajemen jaringan pada jaringan komputer berbasis TCP/IP/Edwin Prijanto",
@@ -8401,7 +9143,7 @@
   },
   {
     "title": "Penentuan ridge count sidik jari dengan teknik pengolahan citra",
-    "author": "Maukar;  | Publisher: [Depok: Fasilkom UI, 1992",
+    "author": "Maukar;  | Publisher: [Depok: Fasilkom UI, 1992;",
     "link": "detail.jsp?id=7495&lokasi=lokal",
     "year": 1992,
     "call_number": "SK-0230"
@@ -8461,6 +9203,13 @@
     "link": "detail.jsp?id=4406&lokasi=lokal",
     "year": 1992,
     "call_number": "SK-0246"
+  },
+  {
+    "title": "Tatik: fasilitas administrasi pemakai terpadu pada jaringan lokal unix",
+    "author": "Denny Yerianto",
+    "link": "detail.jsp?id=32105&lokasi=lokal",
+    "year": 1992,
+    "call_number": "SK-246"
   },
   {
     "title": "Tatik: fasilitas administrasi pemakai terpadu pada jaringan lokal unix",
@@ -8877,7 +9626,7 @@
   },
   {
     "title": "pencarian kata berimbuhan pada kamus besar bahasa Indonesia dengan menggunakan algoritma stemming/ Neil Edwin Siregar",
-    "author": "Siregar, Neil Edwin",
+    "author": "Neil Edwin  Siregar",
     "link": "detail.jsp?id=4458&lokasi=lokal",
     "year": 0,
     "call_number": "SK-0297"
